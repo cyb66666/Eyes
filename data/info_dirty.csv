@@ -1,0 +1,537 @@
+ID,image_path_l,左眼图片名称,image_path_r,右眼图片名称,年龄,性别,左眼疾病详细描述,右眼疾病详细描述,分类
+4,E:/A07/A07/1/Training_Dataset\4_left.jpg,4_left.jpg,E:/A07/A07/1/Training_Dataset\4_right.jpg,4_right.jpg,53,Male,macular epiretinal membrane,mild nonproliferative retinopathy,"D, O"
+5,E:/A07/A07/1/Training_Dataset\5_left.jpg,5_left.jpg,E:/A07/A07/1/Training_Dataset\5_right.jpg,5_right.jpg,50,Female,moderate non proliferative retinopathy,moderate non proliferative retinopathy,D
+10,E:/A07/A07/1/Training_Dataset\10_left.jpg,10_left.jpg,E:/A07/A07/1/Training_Dataset\10_right.jpg,10_right.jpg,70,Male,epiretinal membrane,normal fundus,O
+18,E:/A07/A07/1/Training_Dataset\18_left.jpg,18_left.jpg,E:/A07/A07/1/Training_Dataset\18_right.jpg,18_right.jpg,58,Male,pathological myopia,pathological myopia,M
+19,E:/A07/A07/1/Training_Dataset\19_left.jpg,19_left.jpg,E:/A07/A07/1/Training_Dataset\19_right.jpg,19_right.jpg,45,Male,mild nonproliferative retinopathy,mild nonproliferative retinopathy,D
+38,E:/A07/A07/1/Training_Dataset\38_left.jpg,38_left.jpg,E:/A07/A07/1/Training_Dataset\38_right.jpg,38_right.jpg,75,Male,macular hole,normal fundus,O
+47,E:/A07/A07/1/Training_Dataset\47_left.jpg,47_left.jpg,E:/A07/A07/1/Training_Dataset\47_right.jpg,47_right.jpg,60,Female,moderate non proliferative retinopathy，myelinated nerve fibers,normal fundus,"D, O"
+53,E:/A07/A07/1/Training_Dataset\53_left.jpg,53_left.jpg,E:/A07/A07/1/Training_Dataset\53_right.jpg,53_right.jpg,65,Female,wet age-related macular degeneration,dry age-related macular degeneration,A
+67,E:/A07/A07/1/Training_Dataset\67_left.jpg,67_left.jpg,E:/A07/A07/1/Training_Dataset\67_right.jpg,67_right.jpg,56,Male,diabetic retinopathy,diabetic retinopathy,D
+76,E:/A07/A07/1/Training_Dataset\76_left.jpg,76_left.jpg,E:/A07/A07/1/Training_Dataset\76_right.jpg,76_right.jpg,70,Male,retinochoroidal coloboma,retinochoroidal coloboma,O
+80,E:/A07/A07/1/Training_Dataset\80_left.jpg,80_left.jpg,E:/A07/A07/1/Training_Dataset\80_right.jpg,80_right.jpg,50,Female,lens dust，normal fundus,lens dust，myelinated nerve fibers,O
+84,E:/A07/A07/1/Training_Dataset\84_left.jpg,84_left.jpg,E:/A07/A07/1/Training_Dataset\84_right.jpg,84_right.jpg,51,Female,normal fundus,normal fundus,N
+91,E:/A07/A07/1/Training_Dataset\91_left.jpg,91_left.jpg,E:/A07/A07/1/Training_Dataset\91_right.jpg,91_right.jpg,28,Male,normal fundus,myelinated nerve fibers,O
+92,E:/A07/A07/1/Training_Dataset\92_left.jpg,92_left.jpg,E:/A07/A07/1/Training_Dataset\92_right.jpg,92_right.jpg,53,Male,normal fundus,retinitis pigmentosa,O
+93,E:/A07/A07/1/Training_Dataset\93_left.jpg,93_left.jpg,E:/A07/A07/1/Training_Dataset\93_right.jpg,93_right.jpg,70,Male,moderate non proliferative retinopathy，retina fold,moderate non proliferative retinopathy,"D, O"
+97,E:/A07/A07/1/Training_Dataset\97_left.jpg,97_left.jpg,E:/A07/A07/1/Training_Dataset\97_right.jpg,97_right.jpg,64,Female,normal fundus,vitreous degeneration,O
+118,E:/A07/A07/1/Training_Dataset\118_left.jpg,118_left.jpg,E:/A07/A07/1/Training_Dataset\118_right.jpg,118_right.jpg,48,Male,moderate non proliferative retinopathy，myelinated nerve fibers,moderate non proliferative retinopathy,"D, O"
+126,E:/A07/A07/1/Training_Dataset\126_left.jpg,126_left.jpg,E:/A07/A07/1/Training_Dataset\126_right.jpg,126_right.jpg,66,Male,dry age-related macular degeneration,dry age-related macular degeneration,A
+127,E:/A07/A07/1/Training_Dataset\127_left.jpg,127_left.jpg,E:/A07/A07/1/Training_Dataset\127_right.jpg,127_right.jpg,52,Male,proliferative diabetic retinopathy，hypertensive retinopathy,proliferative diabetic retinopathy，hypertensive retinopathy,"D, H"
+133,E:/A07/A07/1/Training_Dataset\133_left.jpg,133_left.jpg,E:/A07/A07/1/Training_Dataset\133_right.jpg,133_right.jpg,59,Female,moderate non proliferative retinopathy，epiretinal membrane,moderate non proliferative retinopathy,"D, O"
+140,E:/A07/A07/1/Training_Dataset\140_left.jpg,140_left.jpg,E:/A07/A07/1/Training_Dataset\140_right.jpg,140_right.jpg,44,Male,normal fundus,macular epiretinal membrane,O
+148,E:/A07/A07/1/Training_Dataset\148_left.jpg,148_left.jpg,E:/A07/A07/1/Training_Dataset\148_right.jpg,148_right.jpg,70,Female,vitreous degeneration,moderate non proliferative retinopathy,"D, O"
+150,E:/A07/A07/1/Training_Dataset\150_left.jpg,150_left.jpg,E:/A07/A07/1/Training_Dataset\150_right.jpg,150_right.jpg,62,Male,macular epiretinal membrane,normal fundus,O
+170,E:/A07/A07/1/Training_Dataset\170_left.jpg,170_left.jpg,E:/A07/A07/1/Training_Dataset\170_right.jpg,170_right.jpg,59,Male,vitreous degeneration,normal fundus,O
+188,E:/A07/A07/1/Training_Dataset\188_left.jpg,188_left.jpg,E:/A07/A07/1/Training_Dataset\188_right.jpg,188_right.jpg,55,Female,laser spot，severe proliferative diabetic retinopathy,cataract,"D, C, O"
+203,E:/A07/A07/1/Training_Dataset\203_left.jpg,203_left.jpg,E:/A07/A07/1/Training_Dataset\203_right.jpg,203_right.jpg,56,Female,laser spot，severe nonproliferative retinopathy，white vessel,lens dust，normal fundus,"D, O"
+205,E:/A07/A07/1/Training_Dataset\205_left.jpg,205_left.jpg,E:/A07/A07/1/Training_Dataset\205_right.jpg,205_right.jpg,58,Male,drusen,normal fundus,O
+210,E:/A07/A07/1/Training_Dataset\210_left.jpg,210_left.jpg,E:/A07/A07/1/Training_Dataset\210_right.jpg,210_right.jpg,70,Male,dry age-related macular degeneration,wet age-related macular degeneration,A
+224,E:/A07/A07/1/Training_Dataset\224_left.jpg,224_left.jpg,E:/A07/A07/1/Training_Dataset\224_right.jpg,224_right.jpg,54,Female,laser spot，moderate non proliferative retinopathy,moderate non proliferative retinopathy,"D, O"
+226,E:/A07/A07/1/Training_Dataset\226_left.jpg,226_left.jpg,E:/A07/A07/1/Training_Dataset\226_right.jpg,226_right.jpg,50,Male,normal fundus,drusen,O
+240,E:/A07/A07/1/Training_Dataset\240_left.jpg,240_left.jpg,E:/A07/A07/1/Training_Dataset\240_right.jpg,240_right.jpg,35,Male,drusen,drusen,O
+248,E:/A07/A07/1/Training_Dataset\248_left.jpg,248_left.jpg,E:/A07/A07/1/Training_Dataset\248_right.jpg,248_right.jpg,66,Female,lens dust，macular epiretinal membrane,lens dust，normal fundus,O
+260,E:/A07/A07/1/Training_Dataset\260_left.jpg,260_left.jpg,E:/A07/A07/1/Training_Dataset\260_right.jpg,260_right.jpg,63,Female,wet age-related macular degeneration,dry age-related macular degeneration,A
+261,E:/A07/A07/1/Training_Dataset\261_left.jpg,261_left.jpg,E:/A07/A07/1/Training_Dataset\261_right.jpg,261_right.jpg,71,Female,tessellated fundus,maculopathy,O
+266,E:/A07/A07/1/Training_Dataset\266_left.jpg,266_left.jpg,E:/A07/A07/1/Training_Dataset\266_right.jpg,266_right.jpg,67,Male,wet age-related macular degeneration,dry age-related macular degeneration,A
+269,E:/A07/A07/1/Training_Dataset\269_left.jpg,269_left.jpg,E:/A07/A07/1/Training_Dataset\269_right.jpg,269_right.jpg,73,Female,drusen,drusen,O
+272,E:/A07/A07/1/Training_Dataset\272_left.jpg,272_left.jpg,E:/A07/A07/1/Training_Dataset\272_right.jpg,272_right.jpg,59,Male,hypertensive retinopathy,hypertensive retinopathy,H
+281,E:/A07/A07/1/Training_Dataset\281_left.jpg,281_left.jpg,E:/A07/A07/1/Training_Dataset\281_right.jpg,281_right.jpg,68,Female,mild nonproliferative retinopathy,mild nonproliferative retinopathy，epiretinal membrane,"D, O"
+285,E:/A07/A07/1/Training_Dataset\285_left.jpg,285_left.jpg,E:/A07/A07/1/Training_Dataset\285_right.jpg,285_right.jpg,62,Male,normal fundus,macular epiretinal membrane,O
+287,E:/A07/A07/1/Training_Dataset\287_left.jpg,287_left.jpg,E:/A07/A07/1/Training_Dataset\287_right.jpg,287_right.jpg,60,Female,epiretinal membrane,normal fundus,O
+294,E:/A07/A07/1/Training_Dataset\294_left.jpg,294_left.jpg,E:/A07/A07/1/Training_Dataset\294_right.jpg,294_right.jpg,69,Female,cataract,normal fundus,C
+298,E:/A07/A07/1/Training_Dataset\298_left.jpg,298_left.jpg,E:/A07/A07/1/Training_Dataset\298_right.jpg,298_right.jpg,55,Female,macular epiretinal membrane,normal fundus,O
+303,E:/A07/A07/1/Training_Dataset\303_left.jpg,303_left.jpg,E:/A07/A07/1/Training_Dataset\303_right.jpg,303_right.jpg,47,Female,normal fundus,drusen,O
+305,E:/A07/A07/1/Training_Dataset\305_left.jpg,305_left.jpg,E:/A07/A07/1/Training_Dataset\305_right.jpg,305_right.jpg,55,Male,"hypertensive retinopathy,diabetic retinopathy",hypertensive retinopathy，macular epiretinal membrane,"D, H, O"
+306,E:/A07/A07/1/Training_Dataset\306_left.jpg,306_left.jpg,E:/A07/A07/1/Training_Dataset\306_right.jpg,306_right.jpg,62,Female,normal fundus,vitreous degeneration,O
+307,E:/A07/A07/1/Training_Dataset\307_left.jpg,307_left.jpg,E:/A07/A07/1/Training_Dataset\307_right.jpg,307_right.jpg,61,Male,normal fundus,spotted membranous change,O
+312,E:/A07/A07/1/Training_Dataset\312_left.jpg,312_left.jpg,E:/A07/A07/1/Training_Dataset\312_right.jpg,312_right.jpg,74,Male,epiretinal membrane,moderate non proliferative retinopathy,"D, O"
+323,E:/A07/A07/1/Training_Dataset\323_left.jpg,323_left.jpg,E:/A07/A07/1/Training_Dataset\323_right.jpg,323_right.jpg,65,Male,hypertensive retinopathy，optic nerve atrophy,hypertensive retinopathy,"H, O"
+330,E:/A07/A07/1/Training_Dataset\330_left.jpg,330_left.jpg,E:/A07/A07/1/Training_Dataset\330_right.jpg,330_right.jpg,65,Female,cataract,normal fundus,C
+339,E:/A07/A07/1/Training_Dataset\339_left.jpg,339_left.jpg,E:/A07/A07/1/Training_Dataset\339_right.jpg,339_right.jpg,63,Female,normal fundus,vitreous degeneration,O
+347,E:/A07/A07/1/Training_Dataset\347_left.jpg,347_left.jpg,E:/A07/A07/1/Training_Dataset\347_right.jpg,347_right.jpg,67,Female,normal fundus,epiretinal membrane,O
+359,E:/A07/A07/1/Training_Dataset\359_left.jpg,359_left.jpg,E:/A07/A07/1/Training_Dataset\359_right.jpg,359_right.jpg,54,Male,dry age-related macular degeneration,dry age-related macular degeneration,A
+364,E:/A07/A07/1/Training_Dataset\364_left.jpg,364_left.jpg,E:/A07/A07/1/Training_Dataset\364_right.jpg,364_right.jpg,45,Male,myelinated nerve fibers,normal fundus,O
+365,E:/A07/A07/1/Training_Dataset\365_left.jpg,365_left.jpg,E:/A07/A07/1/Training_Dataset\365_right.jpg,365_right.jpg,60,Female,hypertensive retinopathy，suspected glaucoma,hypertensive retinopathy，suspected glaucoma,"G, H"
+368,E:/A07/A07/1/Training_Dataset\368_left.jpg,368_left.jpg,E:/A07/A07/1/Training_Dataset\368_right.jpg,368_right.jpg,64,Male,mild nonproliferative retinopathy,myelinated nerve fibers,"D, O"
+374,E:/A07/A07/1/Training_Dataset\374_left.jpg,374_left.jpg,E:/A07/A07/1/Training_Dataset\374_right.jpg,374_right.jpg,44,Male,hypertensive retinopathy,hypertensive retinopathy,H
+385,E:/A07/A07/1/Training_Dataset\385_left.jpg,385_left.jpg,E:/A07/A07/1/Training_Dataset\385_right.jpg,385_right.jpg,58,Male,normal fundus,macular epiretinal membrane,O
+392,E:/A07/A07/1/Training_Dataset\392_left.jpg,392_left.jpg,E:/A07/A07/1/Training_Dataset\392_right.jpg,392_right.jpg,57,Male,epiretinal membrane over the macula,mild nonproliferative retinopathy,"D, O"
+413,E:/A07/A07/1/Training_Dataset\413_left.jpg,413_left.jpg,E:/A07/A07/1/Training_Dataset\413_right.jpg,413_right.jpg,62,Male,moderate non proliferative retinopathy，hypertensive retinopathy,moderate non proliferative retinopathy，hypertensive retinopathy,"D, H"
+417,E:/A07/A07/1/Training_Dataset\417_left.jpg,417_left.jpg,E:/A07/A07/1/Training_Dataset\417_right.jpg,417_right.jpg,69,Female,retinal pigmentation,normal fundus,O
+420,E:/A07/A07/1/Training_Dataset\420_left.jpg,420_left.jpg,E:/A07/A07/1/Training_Dataset\420_right.jpg,420_right.jpg,63,Female,moderate non proliferative retinopathy,mild nonproliferative retinopathy,D
+425,E:/A07/A07/1/Training_Dataset\425_left.jpg,425_left.jpg,E:/A07/A07/1/Training_Dataset\425_right.jpg,425_right.jpg,81,Female,normal fundus,macular epiretinal membrane,O
+430,E:/A07/A07/1/Training_Dataset\430_left.jpg,430_left.jpg,E:/A07/A07/1/Training_Dataset\430_right.jpg,430_right.jpg,72,Female,macular epiretinal membrane，mild nonproliferative retinopathy,moderate non proliferative retinopathy,"D, O"
+432,E:/A07/A07/1/Training_Dataset\432_left.jpg,432_left.jpg,E:/A07/A07/1/Training_Dataset\432_right.jpg,432_right.jpg,42,Male,normal fundus,retinochoroidal coloboma,O
+439,E:/A07/A07/1/Training_Dataset\439_left.jpg,439_left.jpg,E:/A07/A07/1/Training_Dataset\439_right.jpg,439_right.jpg,79,Male,normal fundus,vitreous degeneration,O
+453,E:/A07/A07/1/Training_Dataset\453_left.jpg,453_left.jpg,E:/A07/A07/1/Training_Dataset\453_right.jpg,453_right.jpg,64,Female,retinitis pigmentosa,retinitis pigmentosa,O
+456,E:/A07/A07/1/Training_Dataset\456_left.jpg,456_left.jpg,E:/A07/A07/1/Training_Dataset\456_right.jpg,456_right.jpg,71,Male,epiretinal membrane,normal fundus,O
+458,E:/A07/A07/1/Training_Dataset\458_left.jpg,458_left.jpg,E:/A07/A07/1/Training_Dataset\458_right.jpg,458_right.jpg,72,Male,macular epiretinal membrane,normal fundus,O
+459,E:/A07/A07/1/Training_Dataset\459_left.jpg,459_left.jpg,E:/A07/A07/1/Training_Dataset\459_right.jpg,459_right.jpg,59,Female,normal fundus，lens dust,lens dust，macular epiretinal membrane,O
+473,E:/A07/A07/1/Training_Dataset\473_left.jpg,473_left.jpg,E:/A07/A07/1/Training_Dataset\473_right.jpg,473_right.jpg,55,Male,severe nonproliferative retinopathy,vitreous degeneration,"D, O"
+474,E:/A07/A07/1/Training_Dataset\474_left.jpg,474_left.jpg,E:/A07/A07/1/Training_Dataset\474_right.jpg,474_right.jpg,55,Female,lens dust，epiretinal membrane,lens dust，mild nonproliferative retinopathy,"D, O"
+475,E:/A07/A07/1/Training_Dataset\475_left.jpg,475_left.jpg,E:/A07/A07/1/Training_Dataset\475_right.jpg,475_right.jpg,58,Female,moderate non proliferative retinopathy,pathological myopia,"D, M"
+477,E:/A07/A07/1/Training_Dataset\477_left.jpg,477_left.jpg,E:/A07/A07/1/Training_Dataset\477_right.jpg,477_right.jpg,65,Female,cataract,cataract,C
+495,E:/A07/A07/1/Training_Dataset\495_left.jpg,495_left.jpg,E:/A07/A07/1/Training_Dataset\495_right.jpg,495_right.jpg,62,Female,moderate non proliferative retinopathy,moderate non proliferative retinopathy，epiretinal membrane,"D, O"
+500,E:/A07/A07/1/Training_Dataset\500_left.jpg,500_left.jpg,E:/A07/A07/1/Training_Dataset\500_right.jpg,500_right.jpg,53,Female,macular epiretinal membrane,normal fundus,O
+524,E:/A07/A07/1/Training_Dataset\524_left.jpg,524_left.jpg,E:/A07/A07/1/Training_Dataset\524_right.jpg,524_right.jpg,44,Male,normal fundus,branch retinal vein occlusion,O
+526,E:/A07/A07/1/Training_Dataset\526_left.jpg,526_left.jpg,E:/A07/A07/1/Training_Dataset\526_right.jpg,526_right.jpg,73,Female,maculopathy,macular epiretinal membrane，post laser photocoagulation,O
+540,E:/A07/A07/1/Training_Dataset\540_left.jpg,540_left.jpg,E:/A07/A07/1/Training_Dataset\540_right.jpg,540_right.jpg,82,Male,normal fundus,dry age-related macular degeneration，diabetic retinopathy,"D, A"
+544,E:/A07/A07/1/Training_Dataset\544_left.jpg,544_left.jpg,E:/A07/A07/1/Training_Dataset\544_right.jpg,544_right.jpg,57,Male,normal fundus,moderate non proliferative retinopathy，epiretinal membrane,"D, O"
+545,E:/A07/A07/1/Training_Dataset\545_left.jpg,545_left.jpg,E:/A07/A07/1/Training_Dataset\545_right.jpg,545_right.jpg,62,Female,refractive media opacity,normal fundus,O
+547,E:/A07/A07/1/Training_Dataset\547_left.jpg,547_left.jpg,E:/A07/A07/1/Training_Dataset\547_right.jpg,547_right.jpg,69,Male,dry age-related macular degeneration,dry age-related macular degeneration,A
+548,E:/A07/A07/1/Training_Dataset\548_left.jpg,548_left.jpg,E:/A07/A07/1/Training_Dataset\548_right.jpg,548_right.jpg,59,Male,spotted membranous change,normal fundus,O
+553,E:/A07/A07/1/Training_Dataset\553_left.jpg,553_left.jpg,E:/A07/A07/1/Training_Dataset\553_right.jpg,553_right.jpg,69,Female,cataract,cataract,C
+555,E:/A07/A07/1/Training_Dataset\555_left.jpg,555_left.jpg,E:/A07/A07/1/Training_Dataset\555_right.jpg,555_right.jpg,55,Male,myelinated nerve fibers,normal fundus,O
+556,E:/A07/A07/1/Training_Dataset\556_left.jpg,556_left.jpg,E:/A07/A07/1/Training_Dataset\556_right.jpg,556_right.jpg,67,Male,moderate non proliferative retinopathy,moderate non proliferative retinopathy,D
+558,E:/A07/A07/1/Training_Dataset\558_left.jpg,558_left.jpg,E:/A07/A07/1/Training_Dataset\558_right.jpg,558_right.jpg,52,Male,mild nonproliferative retinopathy，mild nonproliferative retinopathy,drusen，lens dust,"D, O"
+560,E:/A07/A07/1/Training_Dataset\560_left.jpg,560_left.jpg,E:/A07/A07/1/Training_Dataset\560_right.jpg,560_right.jpg,74,Male,cataract,cataract,C
+561,E:/A07/A07/1/Training_Dataset\561_left.jpg,561_left.jpg,E:/A07/A07/1/Training_Dataset\561_right.jpg,561_right.jpg,59,Female,hypertensive retinopathy,hypertensive retinopathy,H
+565,E:/A07/A07/1/Training_Dataset\565_left.jpg,565_left.jpg,E:/A07/A07/1/Training_Dataset\565_right.jpg,565_right.jpg,59,Female,dry age-related macular degeneration,dry age-related macular degeneration,A
+568,E:/A07/A07/1/Training_Dataset\568_left.jpg,568_left.jpg,E:/A07/A07/1/Training_Dataset\568_right.jpg,568_right.jpg,55,Female,laser spot，moderate non proliferative retinopathy,laser spot，macular epiretinal membrane，moderate non proliferative retinopathy，lens dust,"D, O"
+578,E:/A07/A07/1/Training_Dataset\578_left.jpg,578_left.jpg,E:/A07/A07/1/Training_Dataset\578_right.jpg,578_right.jpg,42,Male,moderate non proliferative retinopathy,mild nonproliferative retinopathy,D
+582,E:/A07/A07/1/Training_Dataset\582_left.jpg,582_left.jpg,E:/A07/A07/1/Training_Dataset\582_right.jpg,582_right.jpg,48,Male,severe nonproliferative retinopathy,severe nonproliferative retinopathy,D
+588,E:/A07/A07/1/Training_Dataset\588_left.jpg,588_left.jpg,E:/A07/A07/1/Training_Dataset\588_right.jpg,588_right.jpg,65,Female,normal fundus,morning glory syndrome,O
+605,E:/A07/A07/1/Training_Dataset\605_left.jpg,605_left.jpg,E:/A07/A07/1/Training_Dataset\605_right.jpg,605_right.jpg,52,Male,moderate non proliferative retinopathy，hypertensive retinopathy,moderate non proliferative retinopathy，hypertensive retinopathy,"D, H"
+606,E:/A07/A07/1/Training_Dataset\606_left.jpg,606_left.jpg,E:/A07/A07/1/Training_Dataset\606_right.jpg,606_right.jpg,54,Male,normal fundus,retinal pigmentation,O
+617,E:/A07/A07/1/Training_Dataset\617_left.jpg,617_left.jpg,E:/A07/A07/1/Training_Dataset\617_right.jpg,617_right.jpg,62,Male,normal fundus,drusen,O
+620,E:/A07/A07/1/Training_Dataset\620_left.jpg,620_left.jpg,E:/A07/A07/1/Training_Dataset\620_right.jpg,620_right.jpg,55,Male,normal fundus,retinal pigmentation,O
+625,E:/A07/A07/1/Training_Dataset\625_left.jpg,625_left.jpg,E:/A07/A07/1/Training_Dataset\625_right.jpg,625_right.jpg,72,Female,cataract，suspected glaucoma,cataract，branch retinal vein occlusion,"G, C, O"
+669,E:/A07/A07/1/Training_Dataset\669_left.jpg,669_left.jpg,E:/A07/A07/1/Training_Dataset\669_right.jpg,669_right.jpg,56,Male,mild nonproliferative retinopathy,normal fundus,D
+670,E:/A07/A07/1/Training_Dataset\670_left.jpg,670_left.jpg,E:/A07/A07/1/Training_Dataset\670_right.jpg,670_right.jpg,71,Female,epiretinal membrane,lens dust，normal fundus,O
+672,E:/A07/A07/1/Training_Dataset\672_left.jpg,672_left.jpg,E:/A07/A07/1/Training_Dataset\672_right.jpg,672_right.jpg,68,Male,macular epiretinal membrane,mild nonproliferative retinopathy,"D, O"
+675,E:/A07/A07/1/Training_Dataset\675_left.jpg,675_left.jpg,E:/A07/A07/1/Training_Dataset\675_right.jpg,675_right.jpg,56,Male,hypertensive retinopathy,hypertensive retinopathy，branch retinal vein occlusion,"H, O"
+678,E:/A07/A07/1/Training_Dataset\678_left.jpg,678_left.jpg,E:/A07/A07/1/Training_Dataset\678_right.jpg,678_right.jpg,54,Male,moderate non proliferative retinopathy,moderate non proliferative retinopathy,D
+690,E:/A07/A07/1/Training_Dataset\690_left.jpg,690_left.jpg,E:/A07/A07/1/Training_Dataset\690_right.jpg,690_right.jpg,62,Male,mild nonproliferative retinopathy，epiretinal membrane,moderate non proliferative retinopathy,"D, O"
+695,E:/A07/A07/1/Training_Dataset\695_left.jpg,695_left.jpg,E:/A07/A07/1/Training_Dataset\695_right.jpg,695_right.jpg,52,Female,normal fundus,normal fundus,N
+697,E:/A07/A07/1/Training_Dataset\697_left.jpg,697_left.jpg,E:/A07/A07/1/Training_Dataset\697_right.jpg,697_right.jpg,56,Female,moderate non proliferative retinopathy，epiretinal membrane,moderate non proliferative retinopathy,"D, O"
+698,E:/A07/A07/1/Training_Dataset\698_left.jpg,698_left.jpg,E:/A07/A07/1/Training_Dataset\698_right.jpg,698_right.jpg,65,Male,moderate non proliferative retinopathy,pathological myopia，lens dust,"D, M"
+708,E:/A07/A07/1/Training_Dataset\708_left.jpg,708_left.jpg,E:/A07/A07/1/Training_Dataset\708_right.jpg,708_right.jpg,57,Male,myelinated nerve fibers,mild nonproliferative retinopathy,"D, O"
+710,E:/A07/A07/1/Training_Dataset\710_left.jpg,710_left.jpg,E:/A07/A07/1/Training_Dataset\710_right.jpg,710_right.jpg,56,Female,normal fundus,epiretinal membrane,O
+711,E:/A07/A07/1/Training_Dataset\711_left.jpg,711_left.jpg,E:/A07/A07/1/Training_Dataset\711_right.jpg,711_right.jpg,62,Female,drusen,drusen,O
+713,E:/A07/A07/1/Training_Dataset\713_left.jpg,713_left.jpg,E:/A07/A07/1/Training_Dataset\713_right.jpg,713_right.jpg,49,Male,mild nonproliferative retinopathy,mild nonproliferative retinopathy，myelinated nerve fibers,"D, O"
+715,E:/A07/A07/1/Training_Dataset\715_left.jpg,715_left.jpg,E:/A07/A07/1/Training_Dataset\715_right.jpg,715_right.jpg,66,Female,macular epiretinal membrane,normal fundus,O
+720,E:/A07/A07/1/Training_Dataset\720_left.jpg,720_left.jpg,E:/A07/A07/1/Training_Dataset\720_right.jpg,720_right.jpg,58,Male,old chorioretinopathy,hypertensive retinopathy,"H, O"
+722,E:/A07/A07/1/Training_Dataset\722_left.jpg,722_left.jpg,E:/A07/A07/1/Training_Dataset\722_right.jpg,722_right.jpg,64,Male,mild nonproliferative retinopathy,pathological myopia,"D, M"
+723,E:/A07/A07/1/Training_Dataset\723_left.jpg,723_left.jpg,E:/A07/A07/1/Training_Dataset\723_right.jpg,723_right.jpg,53,Female,hypertensive retinopathy,hypertensive retinopathy,H
+725,E:/A07/A07/1/Training_Dataset\725_left.jpg,725_left.jpg,E:/A07/A07/1/Training_Dataset\725_right.jpg,725_right.jpg,37,Female,drusen,drusen,O
+726,E:/A07/A07/1/Training_Dataset\726_left.jpg,726_left.jpg,E:/A07/A07/1/Training_Dataset\726_right.jpg,726_right.jpg,60,Female,cataract,cataract,C
+735,E:/A07/A07/1/Training_Dataset\735_left.jpg,735_left.jpg,E:/A07/A07/1/Training_Dataset\735_right.jpg,735_right.jpg,77,Male,mild nonproliferative retinopathy,macular epiretinal membrane，mild nonproliferative retinopathy,"D, O"
+744,E:/A07/A07/1/Training_Dataset\744_left.jpg,744_left.jpg,E:/A07/A07/1/Training_Dataset\744_right.jpg,744_right.jpg,65,Female,moderate non proliferative retinopathy,epiretinal membrane，moderate non proliferative retinopathy,"D, O"
+747,E:/A07/A07/1/Training_Dataset\747_left.jpg,747_left.jpg,E:/A07/A07/1/Training_Dataset\747_right.jpg,747_right.jpg,49,Male,maculopathy,maculopathy,O
+755,E:/A07/A07/1/Training_Dataset\755_left.jpg,755_left.jpg,E:/A07/A07/1/Training_Dataset\755_right.jpg,755_right.jpg,69,Female,severe nonproliferative retinopathy,severe nonproliferative retinopathy,D
+759,E:/A07/A07/1/Training_Dataset\759_left.jpg,759_left.jpg,E:/A07/A07/1/Training_Dataset\759_right.jpg,759_right.jpg,58,Female,hypertensive retinopathy,hypertensive retinopathy,H
+762,E:/A07/A07/1/Training_Dataset\762_left.jpg,762_left.jpg,E:/A07/A07/1/Training_Dataset\762_right.jpg,762_right.jpg,56,Male,mild nonproliferative retinopathy,retinitis pigmentosa,"D, O"
+763,E:/A07/A07/1/Training_Dataset\763_left.jpg,763_left.jpg,E:/A07/A07/1/Training_Dataset\763_right.jpg,763_right.jpg,59,Male,moderate non proliferative retinopathy,moderate non proliferative retinopathy，atrophic change,"D, O"
+774,E:/A07/A07/1/Training_Dataset\774_left.jpg,774_left.jpg,E:/A07/A07/1/Training_Dataset\774_right.jpg,774_right.jpg,70,Female,drusen,drusen,O
+778,E:/A07/A07/1/Training_Dataset\778_left.jpg,778_left.jpg,E:/A07/A07/1/Training_Dataset\778_right.jpg,778_right.jpg,53,Female,myelinated nerve fibers，moderate non proliferative retinopathy,vitreous degeneration,"D, O"
+783,E:/A07/A07/1/Training_Dataset\783_left.jpg,783_left.jpg,E:/A07/A07/1/Training_Dataset\783_right.jpg,783_right.jpg,68,Female,hypertensive retinopathy，mild nonproliferative retinopathy,hypertensive retinopathy，moderate non proliferative retinopathy,"D, H"
+793,E:/A07/A07/1/Training_Dataset\793_left.jpg,793_left.jpg,E:/A07/A07/1/Training_Dataset\793_right.jpg,793_right.jpg,66,Female,lens dust，moderate non proliferative retinopathy,lens dust，vascular loops,"D, O"
+796,E:/A07/A07/1/Training_Dataset\796_left.jpg,796_left.jpg,E:/A07/A07/1/Training_Dataset\796_right.jpg,796_right.jpg,64,Male,moderate non proliferative retinopathy,moderate non proliferative retinopathy，epiretinal membrane,"D, O"
+816,E:/A07/A07/1/Training_Dataset\816_left.jpg,816_left.jpg,E:/A07/A07/1/Training_Dataset\816_right.jpg,816_right.jpg,64,Male,hypertensive retinopathy,old branch retinal vein occlusion,"H, O"
+818,E:/A07/A07/1/Training_Dataset\818_left.jpg,818_left.jpg,E:/A07/A07/1/Training_Dataset\818_right.jpg,818_right.jpg,52,Male,hypertensive retinopathy，moderate non proliferative retinopathy,hypertensive retinopathy,"D, H"
+819,E:/A07/A07/1/Training_Dataset\819_left.jpg,819_left.jpg,E:/A07/A07/1/Training_Dataset\819_right.jpg,819_right.jpg,60,Female,lens dust，moderate non proliferative retinopathy,drusen，moderate non proliferative retinopathy，lens dust,"D, O"
+820,E:/A07/A07/1/Training_Dataset\820_left.jpg,820_left.jpg,E:/A07/A07/1/Training_Dataset\820_right.jpg,820_right.jpg,82,Female,cataract,normal fundus,C
+822,E:/A07/A07/1/Training_Dataset\822_left.jpg,822_left.jpg,E:/A07/A07/1/Training_Dataset\822_right.jpg,822_right.jpg,59,Male,normal fundus,myelinated nerve fibers,O
+828,E:/A07/A07/1/Training_Dataset\828_left.jpg,828_left.jpg,E:/A07/A07/1/Training_Dataset\828_right.jpg,828_right.jpg,63,Female,normal fundus,macular epiretinal membrane,O
+832,E:/A07/A07/1/Training_Dataset\832_left.jpg,832_left.jpg,E:/A07/A07/1/Training_Dataset\832_right.jpg,832_right.jpg,61,Male,normal fundus,normal fundus,N
+842,E:/A07/A07/1/Training_Dataset\842_left.jpg,842_left.jpg,E:/A07/A07/1/Training_Dataset\842_right.jpg,842_right.jpg,60,Female,mild nonproliferative retinopathy,lens dust，macular epiretinal membrane,"D, O"
+854,E:/A07/A07/1/Training_Dataset\854_left.jpg,854_left.jpg,E:/A07/A07/1/Training_Dataset\854_right.jpg,854_right.jpg,74,Male,normal fundus,myelinated nerve fibers,O
+857,E:/A07/A07/1/Training_Dataset\857_left.jpg,857_left.jpg,E:/A07/A07/1/Training_Dataset\857_right.jpg,857_right.jpg,63,Male,macular epiretinal membrane，moderate non proliferative retinopathy,macular epiretinal membrane，severe nonproliferative retinopathy，old branch retinal vein occlusion,"D, O"
+868,E:/A07/A07/1/Training_Dataset\868_left.jpg,868_left.jpg,E:/A07/A07/1/Training_Dataset\868_right.jpg,868_right.jpg,55,Female,myelinated nerve fibers,moderate non proliferative retinopathy,"D, O"
+875,E:/A07/A07/1/Training_Dataset\875_left.jpg,875_left.jpg,E:/A07/A07/1/Training_Dataset\875_right.jpg,875_right.jpg,63,Female,epiretinal membrane，normal fundus，lens dust,normal fundus,O
+882,E:/A07/A07/1/Training_Dataset\882_left.jpg,882_left.jpg,E:/A07/A07/1/Training_Dataset\882_right.jpg,882_right.jpg,68,Male,lens dust，normal fundus,atrophic change,O
+885,E:/A07/A07/1/Training_Dataset\885_left.jpg,885_left.jpg,E:/A07/A07/1/Training_Dataset\885_right.jpg,885_right.jpg,54,Male,normal fundus,dry age-related macular degeneration,A
+888,E:/A07/A07/1/Training_Dataset\888_left.jpg,888_left.jpg,E:/A07/A07/1/Training_Dataset\888_right.jpg,888_right.jpg,56,Male,dry age-related macular degeneration,dry age-related macular degeneration,A
+907,E:/A07/A07/1/Training_Dataset\907_left.jpg,907_left.jpg,E:/A07/A07/1/Training_Dataset\907_right.jpg,907_right.jpg,74,Male,cataract,refractive media opacity,"C, O"
+914,E:/A07/A07/1/Training_Dataset\914_left.jpg,914_left.jpg,E:/A07/A07/1/Training_Dataset\914_right.jpg,914_right.jpg,61,Female,moderate non proliferative retinopathy，myelinated nerve fibers，laser spot,laser spot，moderate non proliferative retinopathy,"D, O"
+924,E:/A07/A07/1/Training_Dataset\924_left.jpg,924_left.jpg,E:/A07/A07/1/Training_Dataset\924_right.jpg,924_right.jpg,72,Female,normal fundus,refractive media opacity,O
+925,E:/A07/A07/1/Training_Dataset\925_left.jpg,925_left.jpg,E:/A07/A07/1/Training_Dataset\925_right.jpg,925_right.jpg,43,Female,normal fundus,epiretinal membrane,O
+938,E:/A07/A07/1/Training_Dataset\938_left.jpg,938_left.jpg,E:/A07/A07/1/Training_Dataset\938_right.jpg,938_right.jpg,76,Male,dry age-related macular degeneration，myopia retinopathy,diabetic retinopathy，dry age-related macular degeneration,"D, A, M"
+943,E:/A07/A07/1/Training_Dataset\943_left.jpg,943_left.jpg,E:/A07/A07/1/Training_Dataset\943_right.jpg,943_right.jpg,64,Male,macular epiretinal membrane,macular epiretinal membrane,O
+950,E:/A07/A07/1/Training_Dataset\950_left.jpg,950_left.jpg,E:/A07/A07/1/Training_Dataset\950_right.jpg,950_right.jpg,48,Female,normal fundus,drusen,O
+952,E:/A07/A07/1/Training_Dataset\952_left.jpg,952_left.jpg,E:/A07/A07/1/Training_Dataset\952_right.jpg,952_right.jpg,76,Female,macular epiretinal membrane，mild nonproliferative retinopathy,macular epiretinal membrane，mild nonproliferative retinopathy,"D, O"
+954,E:/A07/A07/1/Training_Dataset\954_left.jpg,954_left.jpg,E:/A07/A07/1/Training_Dataset\954_right.jpg,954_right.jpg,61,Female,epiretinal membrane,normal fundus,O
+964,E:/A07/A07/1/Training_Dataset\964_left.jpg,964_left.jpg,E:/A07/A07/1/Training_Dataset\964_right.jpg,964_right.jpg,71,Male,moderate non proliferative retinopathy,moderate non proliferative retinopathy，macular epiretinal membrane,"D, O"
+970,E:/A07/A07/1/Training_Dataset\970_left.jpg,970_left.jpg,E:/A07/A07/1/Training_Dataset\970_right.jpg,970_right.jpg,56,Female,cataract，moderate non proliferative retinopathy,cataract,"D, C"
+982,E:/A07/A07/1/Training_Dataset\982_left.jpg,982_left.jpg,E:/A07/A07/1/Training_Dataset\982_right.jpg,982_right.jpg,65,Male,normal fundus,retinal pigmentation,O
+992,E:/A07/A07/1/Training_Dataset\992_left.jpg,992_left.jpg,E:/A07/A07/1/Training_Dataset\992_right.jpg,992_right.jpg,53,Female,dry age-related macular degeneration,dry age-related macular degeneration,A
+1024,E:/A07/A07/1/Training_Dataset\1024_left.jpg,1024_left.jpg,E:/A07/A07/1/Training_Dataset\1024_right.jpg,1024_right.jpg,60,Male,hypertensive retinopathy,hypertensive retinopathy，mild nonproliferative retinopathy,"D, H"
+1031,E:/A07/A07/1/Training_Dataset\1031_left.jpg,1031_left.jpg,E:/A07/A07/1/Training_Dataset\1031_right.jpg,1031_right.jpg,53,Male,drusen,hypertensive retinopathy,"H, O"
+1035,E:/A07/A07/1/Training_Dataset\1035_left.jpg,1035_left.jpg,E:/A07/A07/1/Training_Dataset\1035_right.jpg,1035_right.jpg,53,Male,normal fundus,mild nonproliferative retinopathy,D
+1040,E:/A07/A07/1/Training_Dataset\1040_left.jpg,1040_left.jpg,E:/A07/A07/1/Training_Dataset\1040_right.jpg,1040_right.jpg,65,Male,myelinated nerve fibers,normal fundus,O
+1046,E:/A07/A07/1/Training_Dataset\1046_left.jpg,1046_left.jpg,E:/A07/A07/1/Training_Dataset\1046_right.jpg,1046_right.jpg,55,Male,hypertensive retinopathy,hypertensive retinopathy,H
+1050,E:/A07/A07/1/Training_Dataset\1050_left.jpg,1050_left.jpg,E:/A07/A07/1/Training_Dataset\1050_right.jpg,1050_right.jpg,60,Female,drusen,drusen,O
+1065,E:/A07/A07/1/Training_Dataset\1065_left.jpg,1065_left.jpg,E:/A07/A07/1/Training_Dataset\1065_right.jpg,1065_right.jpg,75,Male,dry age-related macular degeneration,myopia retinopathy,"A, M"
+1072,E:/A07/A07/1/Training_Dataset\1072_left.jpg,1072_left.jpg,E:/A07/A07/1/Training_Dataset\1072_right.jpg,1072_right.jpg,54,Female,normal fundus,normal fundus,N
+1075,E:/A07/A07/1/Training_Dataset\1075_left.jpg,1075_left.jpg,E:/A07/A07/1/Training_Dataset\1075_right.jpg,1075_right.jpg,67,Male,wet age-related macular degeneration,normal fundus,A
+1080,E:/A07/A07/1/Training_Dataset\1080_left.jpg,1080_left.jpg,E:/A07/A07/1/Training_Dataset\1080_right.jpg,1080_right.jpg,60,Female,macular epiretinal membrane,normal fundus,O
+1084,E:/A07/A07/1/Training_Dataset\1084_left.jpg,1084_left.jpg,E:/A07/A07/1/Training_Dataset\1084_right.jpg,1084_right.jpg,60,Male,moderate non proliferative retinopathy,cataract，mild nonproliferative retinopathy,"D, C"
+1086,E:/A07/A07/1/Training_Dataset\1086_left.jpg,1086_left.jpg,E:/A07/A07/1/Training_Dataset\1086_right.jpg,1086_right.jpg,62,Male,normal fundus,macular epiretinal membrane,O
+1087,E:/A07/A07/1/Training_Dataset\1087_left.jpg,1087_left.jpg,E:/A07/A07/1/Training_Dataset\1087_right.jpg,1087_right.jpg,37,Male,central retinal vein occlusion，optic disc edema,central retinal vein occlusion，optic disc edema,O
+1090,E:/A07/A07/1/Training_Dataset\1090_left.jpg,1090_left.jpg,E:/A07/A07/1/Training_Dataset\1090_right.jpg,1090_right.jpg,55,Male,branch retinal vein occlusion,normal fundus,O
+1111,E:/A07/A07/1/Training_Dataset\1111_left.jpg,1111_left.jpg,E:/A07/A07/1/Training_Dataset\1111_right.jpg,1111_right.jpg,65,Female,dry age-related macular degeneration,dry age-related macular degeneration,A
+1114,E:/A07/A07/1/Training_Dataset\1114_left.jpg,1114_left.jpg,E:/A07/A07/1/Training_Dataset\1114_right.jpg,1114_right.jpg,67,Male,refractive media opacity,normal fundus,O
+1125,E:/A07/A07/1/Training_Dataset\1125_left.jpg,1125_left.jpg,E:/A07/A07/1/Training_Dataset\1125_right.jpg,1125_right.jpg,37,Female,dry age-related macular degeneration,dry age-related macular degeneration,A
+1131,E:/A07/A07/1/Training_Dataset\1131_left.jpg,1131_left.jpg,E:/A07/A07/1/Training_Dataset\1131_right.jpg,1131_right.jpg,56,Male,lens dust，epiretinal membrane,lens dust，normal fundus,O
+1147,E:/A07/A07/1/Training_Dataset\1147_left.jpg,1147_left.jpg,E:/A07/A07/1/Training_Dataset\1147_right.jpg,1147_right.jpg,65,Female,moderate non proliferative retinopathy,moderate non proliferative retinopathy,D
+1169,E:/A07/A07/1/Training_Dataset\1169_left.jpg,1169_left.jpg,E:/A07/A07/1/Training_Dataset\1169_right.jpg,1169_right.jpg,26,Female,maculopathy,normal fundus,O
+1170,E:/A07/A07/1/Training_Dataset\1170_left.jpg,1170_left.jpg,E:/A07/A07/1/Training_Dataset\1170_right.jpg,1170_right.jpg,56,Male,drusen,drusen,O
+1176,E:/A07/A07/1/Training_Dataset\1176_left.jpg,1176_left.jpg,E:/A07/A07/1/Training_Dataset\1176_right.jpg,1176_right.jpg,65,Female,normal fundus,macular epiretinal membrane,O
+1186,E:/A07/A07/1/Training_Dataset\1186_left.jpg,1186_left.jpg,E:/A07/A07/1/Training_Dataset\1186_right.jpg,1186_right.jpg,54,Female,macular epiretinal membrane,normal fundus,O
+1195,E:/A07/A07/1/Training_Dataset\1195_left.jpg,1195_left.jpg,E:/A07/A07/1/Training_Dataset\1195_right.jpg,1195_right.jpg,62,Female,macular epiretinal membrane,normal fundus,O
+1207,E:/A07/A07/1/Training_Dataset\1207_left.jpg,1207_left.jpg,E:/A07/A07/1/Training_Dataset\1207_right.jpg,1207_right.jpg,61,Female,macular epiretinal membrane,normal fundus,O
+1208,E:/A07/A07/1/Training_Dataset\1208_left.jpg,1208_left.jpg,E:/A07/A07/1/Training_Dataset\1208_right.jpg,1208_right.jpg,68,Female,white vessel，laser spot,suspected retinitis pigmentosa,O
+1211,E:/A07/A07/1/Training_Dataset\1211_left.jpg,1211_left.jpg,E:/A07/A07/1/Training_Dataset\1211_right.jpg,1211_right.jpg,80,Male,glaucoma，optic nerve atrophy,glaucoma，optic nerve atrophy,"G, O"
+1212,E:/A07/A07/1/Training_Dataset\1212_left.jpg,1212_left.jpg,E:/A07/A07/1/Training_Dataset\1212_right.jpg,1212_right.jpg,73,Female,glaucoma,glaucoma,G
+1218,E:/A07/A07/1/Training_Dataset\1218_left.jpg,1218_left.jpg,E:/A07/A07/1/Training_Dataset\1218_right.jpg,1218_right.jpg,68,Female,glaucoma,glaucoma,G
+1221,E:/A07/A07/1/Training_Dataset\1221_left.jpg,1221_left.jpg,E:/A07/A07/1/Training_Dataset\1221_right.jpg,1221_right.jpg,70,Male,glaucoma，macular epiretinal membrane,glaucoma，old central retinal vein occlusion,"G, O"
+1222,E:/A07/A07/1/Training_Dataset\1222_left.jpg,1222_left.jpg,E:/A07/A07/1/Training_Dataset\1222_right.jpg,1222_right.jpg,59,Male,glaucoma,glaucoma,G
+1226,E:/A07/A07/1/Training_Dataset\1226_left.jpg,1226_left.jpg,E:/A07/A07/1/Training_Dataset\1226_right.jpg,1226_right.jpg,74,Female,glaucoma,glaucoma,G
+1236,E:/A07/A07/1/Training_Dataset\1236_left.jpg,1236_left.jpg,E:/A07/A07/1/Training_Dataset\1236_right.jpg,1236_right.jpg,67,Female,optic nerve atrophy,optic nerve atrophy,O
+1245,E:/A07/A07/1/Training_Dataset\1245_left.jpg,1245_left.jpg,E:/A07/A07/1/Training_Dataset\1245_right.jpg,1245_right.jpg,65,Female,normal fundus,macular epiretinal membrane,O
+1255,E:/A07/A07/1/Training_Dataset\1255_left.jpg,1255_left.jpg,E:/A07/A07/1/Training_Dataset\1255_right.jpg,1255_right.jpg,33,Male,glaucoma，diffuse retinal atrophy,glaucoma,"G, O"
+1258,E:/A07/A07/1/Training_Dataset\1258_left.jpg,1258_left.jpg,E:/A07/A07/1/Training_Dataset\1258_right.jpg,1258_right.jpg,72,Male,glaucoma,glaucoma,G
+1260,E:/A07/A07/1/Training_Dataset\1260_left.jpg,1260_left.jpg,E:/A07/A07/1/Training_Dataset\1260_right.jpg,1260_right.jpg,66,Female,glaucoma,glaucoma,G
+1261,E:/A07/A07/1/Training_Dataset\1261_left.jpg,1261_left.jpg,E:/A07/A07/1/Training_Dataset\1261_right.jpg,1261_right.jpg,62,Female,glaucoma,glaucoma,G
+1262,E:/A07/A07/1/Training_Dataset\1262_left.jpg,1262_left.jpg,E:/A07/A07/1/Training_Dataset\1262_right.jpg,1262_right.jpg,70,Female,normal fundus,glaucoma,G
+1263,E:/A07/A07/1/Training_Dataset\1263_left.jpg,1263_left.jpg,E:/A07/A07/1/Training_Dataset\1263_right.jpg,1263_right.jpg,62,Male,old central retinal vein occlusion,glaucoma，hypertensive retinopathy,"G, H, O"
+1265,E:/A07/A07/1/Training_Dataset\1265_left.jpg,1265_left.jpg,E:/A07/A07/1/Training_Dataset\1265_right.jpg,1265_right.jpg,75,Male,glaucoma,glaucoma,G
+1267,E:/A07/A07/1/Training_Dataset\1267_left.jpg,1267_left.jpg,E:/A07/A07/1/Training_Dataset\1267_right.jpg,1267_right.jpg,55,Male,glaucoma,glaucoma,G
+1268,E:/A07/A07/1/Training_Dataset\1268_left.jpg,1268_left.jpg,E:/A07/A07/1/Training_Dataset\1268_right.jpg,1268_right.jpg,56,Female,glaucoma,glaucoma,G
+1271,E:/A07/A07/1/Training_Dataset\1271_left.jpg,1271_left.jpg,E:/A07/A07/1/Training_Dataset\1271_right.jpg,1271_right.jpg,59,Female,glaucoma,glaucoma,G
+1272,E:/A07/A07/1/Training_Dataset\1272_left.jpg,1272_left.jpg,E:/A07/A07/1/Training_Dataset\1272_right.jpg,1272_right.jpg,59,Female,glaucoma,glaucoma,G
+1280,E:/A07/A07/1/Training_Dataset\1280_left.jpg,1280_left.jpg,E:/A07/A07/1/Training_Dataset\1280_right.jpg,1280_right.jpg,50,Female,dry age-related macular degeneration，glaucoma,normal fundus,"G, A"
+1281,E:/A07/A07/1/Training_Dataset\1281_left.jpg,1281_left.jpg,E:/A07/A07/1/Training_Dataset\1281_right.jpg,1281_right.jpg,61,Male,glaucoma，diabetic retinopathy,glaucoma，diabetic retinopathy,"D, G"
+1289,E:/A07/A07/1/Training_Dataset\1289_left.jpg,1289_left.jpg,E:/A07/A07/1/Training_Dataset\1289_right.jpg,1289_right.jpg,71,Female,glaucoma，myopia retinopathy,glaucoma，myopia retinopathy,"G, M"
+1291,E:/A07/A07/1/Training_Dataset\1291_left.jpg,1291_left.jpg,E:/A07/A07/1/Training_Dataset\1291_right.jpg,1291_right.jpg,63,Male,glaucoma，macular epiretinal membrane,glaucoma，macular epiretinal membrane,"G, O"
+1296,E:/A07/A07/1/Training_Dataset\1296_left.jpg,1296_left.jpg,E:/A07/A07/1/Training_Dataset\1296_right.jpg,1296_right.jpg,60,Female,normal fundus,refractive media opacity,O
+1311,E:/A07/A07/1/Training_Dataset\1311_left.jpg,1311_left.jpg,E:/A07/A07/1/Training_Dataset\1311_right.jpg,1311_right.jpg,67,Female,normal fundus,vitreous degeneration,O
+1319,E:/A07/A07/1/Training_Dataset\1319_left.jpg,1319_left.jpg,E:/A07/A07/1/Training_Dataset\1319_right.jpg,1319_right.jpg,61,Male,optic disk photographically invisible,glaucoma,G
+1366,E:/A07/A07/1/Training_Dataset\1366_left.jpg,1366_left.jpg,E:/A07/A07/1/Training_Dataset\1366_right.jpg,1366_right.jpg,81,Female,myopic retinopathy,myopic retinopathy,M
+1369,E:/A07/A07/1/Training_Dataset\1369_left.jpg,1369_left.jpg,E:/A07/A07/1/Training_Dataset\1369_right.jpg,1369_right.jpg,67,Male,glaucoma,optic disk photographically invisible,G
+1371,E:/A07/A07/1/Training_Dataset\1371_left.jpg,1371_left.jpg,E:/A07/A07/1/Training_Dataset\1371_right.jpg,1371_right.jpg,81,Male,glaucoma,glaucoma,G
+1373,E:/A07/A07/1/Training_Dataset\1373_left.jpg,1373_left.jpg,E:/A07/A07/1/Training_Dataset\1373_right.jpg,1373_right.jpg,68,Male,hypertensive retinopathy,hypertensive retinopathy，branch retinal vein occlusion，vitreous opacity,"H, O"
+1383,E:/A07/A07/1/Training_Dataset\1383_left.jpg,1383_left.jpg,E:/A07/A07/1/Training_Dataset\1383_right.jpg,1383_right.jpg,67,Female,macular epiretinal membrane，glaucoma,macular epiretinal membrane,"G, O"
+1401,E:/A07/A07/1/Training_Dataset\1401_left.jpg,1401_left.jpg,E:/A07/A07/1/Training_Dataset\1401_right.jpg,1401_right.jpg,60,Female,lens dust，normal fundus,lens dust，suspected glaucoma,G
+1412,E:/A07/A07/1/Training_Dataset\1412_left.jpg,1412_left.jpg,E:/A07/A07/1/Training_Dataset\1412_right.jpg,1412_right.jpg,71,Female,white vessel，suspected glaucoma,suspected glaucoma,"G, O"
+1414,E:/A07/A07/1/Training_Dataset\1414_left.jpg,1414_left.jpg,E:/A07/A07/1/Training_Dataset\1414_right.jpg,1414_right.jpg,66,Male,suspected glaucoma,normal fundus,G
+1418,E:/A07/A07/1/Training_Dataset\1418_left.jpg,1418_left.jpg,E:/A07/A07/1/Training_Dataset\1418_right.jpg,1418_right.jpg,68,Male,suspected glaucoma,normal fundus,G
+1424,E:/A07/A07/1/Training_Dataset\1424_left.jpg,1424_left.jpg,E:/A07/A07/1/Training_Dataset\1424_right.jpg,1424_right.jpg,74,Male,suspected glaucoma,normal fundus,G
+1425,E:/A07/A07/1/Training_Dataset\1425_left.jpg,1425_left.jpg,E:/A07/A07/1/Training_Dataset\1425_right.jpg,1425_right.jpg,70,Female,normal fundus,suspected glaucoma,G
+1426,E:/A07/A07/1/Training_Dataset\1426_left.jpg,1426_left.jpg,E:/A07/A07/1/Training_Dataset\1426_right.jpg,1426_right.jpg,68,Female,suspected glaucoma，drusen,vitreous degeneration,"G, O"
+1427,E:/A07/A07/1/Training_Dataset\1427_left.jpg,1427_left.jpg,E:/A07/A07/1/Training_Dataset\1427_right.jpg,1427_right.jpg,70,Male,normal fundus,suspected glaucoma,G
+1441,E:/A07/A07/1/Training_Dataset\1441_left.jpg,1441_left.jpg,E:/A07/A07/1/Training_Dataset\1441_right.jpg,1441_right.jpg,50,Male,glaucoma,normal fundus,G
+1442,E:/A07/A07/1/Training_Dataset\1442_left.jpg,1442_left.jpg,E:/A07/A07/1/Training_Dataset\1442_right.jpg,1442_right.jpg,63,Male,glaucoma，mild nonproliferative retinopathy，macular pigmentation disorder,pigmentation disorder,"D, G, O"
+1450,E:/A07/A07/1/Training_Dataset\1450_left.jpg,1450_left.jpg,E:/A07/A07/1/Training_Dataset\1450_right.jpg,1450_right.jpg,76,Female,glaucoma,normal fundus,G
+1469,E:/A07/A07/1/Training_Dataset\1469_left.jpg,1469_left.jpg,E:/A07/A07/1/Training_Dataset\1469_right.jpg,1469_right.jpg,51,Female,glaucoma,glaucoma,G
+1471,E:/A07/A07/1/Training_Dataset\1471_left.jpg,1471_left.jpg,E:/A07/A07/1/Training_Dataset\1471_right.jpg,1471_right.jpg,45,Male,glaucoma,epiretinal membrane,"G, O"
+1495,E:/A07/A07/1/Training_Dataset\1495_left.jpg,1495_left.jpg,E:/A07/A07/1/Training_Dataset\1495_right.jpg,1495_right.jpg,64,Female,glaucoma,glaucoma,G
+1498,E:/A07/A07/1/Training_Dataset\1498_left.jpg,1498_left.jpg,E:/A07/A07/1/Training_Dataset\1498_right.jpg,1498_right.jpg,52,Male,glaucoma,normal fundus,G
+1523,E:/A07/A07/1/Training_Dataset\1523_left.jpg,1523_left.jpg,E:/A07/A07/1/Training_Dataset\1523_right.jpg,1523_right.jpg,76,Female,pathological myopia,pathological myopia,M
+1530,E:/A07/A07/1/Training_Dataset\1530_left.jpg,1530_left.jpg,E:/A07/A07/1/Training_Dataset\1530_right.jpg,1530_right.jpg,70,Male,pathological myopia,pathological myopia,M
+1534,E:/A07/A07/1/Training_Dataset\1534_left.jpg,1534_left.jpg,E:/A07/A07/1/Training_Dataset\1534_right.jpg,1534_right.jpg,67,Female,pathological myopia,pathological myopia,M
+1546,E:/A07/A07/1/Training_Dataset\1546_left.jpg,1546_left.jpg,E:/A07/A07/1/Training_Dataset\1546_right.jpg,1546_right.jpg,53,Male,pathological myopia,pathological myopia,M
+1547,E:/A07/A07/1/Training_Dataset\1547_left.jpg,1547_left.jpg,E:/A07/A07/1/Training_Dataset\1547_right.jpg,1547_right.jpg,66,Female,pathological myopia,pathological myopia,M
+1549,E:/A07/A07/1/Training_Dataset\1549_left.jpg,1549_left.jpg,E:/A07/A07/1/Training_Dataset\1549_right.jpg,1549_right.jpg,78,Female,pathological myopia,pathological myopia,M
+1550,E:/A07/A07/1/Training_Dataset\1550_left.jpg,1550_left.jpg,E:/A07/A07/1/Training_Dataset\1550_right.jpg,1550_right.jpg,76,Male,pathological myopia,pathological myopia,M
+1552,E:/A07/A07/1/Training_Dataset\1552_left.jpg,1552_left.jpg,E:/A07/A07/1/Training_Dataset\1552_right.jpg,1552_right.jpg,67,Male,pathological myopia,pathological myopia,M
+1554,E:/A07/A07/1/Training_Dataset\1554_left.jpg,1554_left.jpg,E:/A07/A07/1/Training_Dataset\1554_right.jpg,1554_right.jpg,78,Female,pathological myopia,pathological myopia,M
+1558,E:/A07/A07/1/Training_Dataset\1558_left.jpg,1558_left.jpg,E:/A07/A07/1/Training_Dataset\1558_right.jpg,1558_right.jpg,73,Female,pathological myopia,pathological myopia,M
+1560,E:/A07/A07/1/Training_Dataset\1560_left.jpg,1560_left.jpg,E:/A07/A07/1/Training_Dataset\1560_right.jpg,1560_right.jpg,77,Female,tessellated fundus,pathological myopia,"M, O"
+1562,E:/A07/A07/1/Training_Dataset\1562_left.jpg,1562_left.jpg,E:/A07/A07/1/Training_Dataset\1562_right.jpg,1562_right.jpg,62,Female,pathological myopia,pathological myopia,M
+1566,E:/A07/A07/1/Training_Dataset\1566_left.jpg,1566_left.jpg,E:/A07/A07/1/Training_Dataset\1566_right.jpg,1566_right.jpg,75,Female,pathological myopia,tessellated fundus,"M, O"
+1571,E:/A07/A07/1/Training_Dataset\1571_left.jpg,1571_left.jpg,E:/A07/A07/1/Training_Dataset\1571_right.jpg,1571_right.jpg,65,Male,pathological myopia,tessellated fundus，peripapillary atrophy,"M, O"
+1572,E:/A07/A07/1/Training_Dataset\1572_left.jpg,1572_left.jpg,E:/A07/A07/1/Training_Dataset\1572_right.jpg,1572_right.jpg,75,Male,pathological myopia,pathological myopia,M
+1578,E:/A07/A07/1/Training_Dataset\1578_left.jpg,1578_left.jpg,E:/A07/A07/1/Training_Dataset\1578_right.jpg,1578_right.jpg,34,Female,pathological myopia,pathological myopia,M
+1597,E:/A07/A07/1/Training_Dataset\1597_left.jpg,1597_left.jpg,E:/A07/A07/1/Training_Dataset\1597_right.jpg,1597_right.jpg,64,Female,tessellated fundus，peripapillary atrophy,pathological myopia,"M, O"
+1602,E:/A07/A07/1/Training_Dataset\1602_left.jpg,1602_left.jpg,E:/A07/A07/1/Training_Dataset\1602_right.jpg,1602_right.jpg,38,Female,pathological myopia,pathological myopia,M
+1607,E:/A07/A07/1/Training_Dataset\1607_left.jpg,1607_left.jpg,E:/A07/A07/1/Training_Dataset\1607_right.jpg,1607_right.jpg,62,Female,pathological myopia,pathological myopia,M
+1613,E:/A07/A07/1/Training_Dataset\1613_left.jpg,1613_left.jpg,E:/A07/A07/1/Training_Dataset\1613_right.jpg,1613_right.jpg,66,Female,pathological myopia,pathological myopia,M
+1615,E:/A07/A07/1/Training_Dataset\1615_left.jpg,1615_left.jpg,E:/A07/A07/1/Training_Dataset\1615_right.jpg,1615_right.jpg,60,Female,pathological myopia,pathological myopia,M
+1619,E:/A07/A07/1/Training_Dataset\1619_left.jpg,1619_left.jpg,E:/A07/A07/1/Training_Dataset\1619_right.jpg,1619_right.jpg,70,Female,normal fundus,pathological myopia,M
+1621,E:/A07/A07/1/Training_Dataset\1621_left.jpg,1621_left.jpg,E:/A07/A07/1/Training_Dataset\1621_right.jpg,1621_right.jpg,50,Female,pathological myopia,pathological myopia,M
+1623,E:/A07/A07/1/Training_Dataset\1623_left.jpg,1623_left.jpg,E:/A07/A07/1/Training_Dataset\1623_right.jpg,1623_right.jpg,58,Female,pathological myopia,pathological myopia,M
+1626,E:/A07/A07/1/Training_Dataset\1626_left.jpg,1626_left.jpg,E:/A07/A07/1/Training_Dataset\1626_right.jpg,1626_right.jpg,74,Male,pathological myopia,tessellated fundus，peripapillary atrophy,"M, O"
+1629,E:/A07/A07/1/Training_Dataset\1629_left.jpg,1629_left.jpg,E:/A07/A07/1/Training_Dataset\1629_right.jpg,1629_right.jpg,50,Female,pathological myopia,pathological myopia,M
+1638,E:/A07/A07/1/Training_Dataset\1638_left.jpg,1638_left.jpg,E:/A07/A07/1/Training_Dataset\1638_right.jpg,1638_right.jpg,59,Male,pathological myopia,retinal detachment，tessellated fundus,"M, O"
+1642,E:/A07/A07/1/Training_Dataset\1642_left.jpg,1642_left.jpg,E:/A07/A07/1/Training_Dataset\1642_right.jpg,1642_right.jpg,63,Male,tessellated fundus，peripapillary atrophy,pathological myopia,"M, O"
+1647,E:/A07/A07/1/Training_Dataset\1647_left.jpg,1647_left.jpg,E:/A07/A07/1/Training_Dataset\1647_right.jpg,1647_right.jpg,69,Male,pathological myopia,pathological myopia,M
+1662,E:/A07/A07/1/Training_Dataset\1662_left.jpg,1662_left.jpg,E:/A07/A07/1/Training_Dataset\1662_right.jpg,1662_right.jpg,68,Male,pathological myopia,chorioretinal atrophy,"M, O"
+1666,E:/A07/A07/1/Training_Dataset\1666_left.jpg,1666_left.jpg,E:/A07/A07/1/Training_Dataset\1666_right.jpg,1666_right.jpg,47,Male,normal fundus,pathological myopia,M
+1683,E:/A07/A07/1/Training_Dataset\1683_left.jpg,1683_left.jpg,E:/A07/A07/1/Training_Dataset\1683_right.jpg,1683_right.jpg,72,Female,peripapillary atrophy,pathological myopia,"M, O"
+1686,E:/A07/A07/1/Training_Dataset\1686_left.jpg,1686_left.jpg,E:/A07/A07/1/Training_Dataset\1686_right.jpg,1686_right.jpg,51,Male,pathological myopia,pathological myopia,M
+1694,E:/A07/A07/1/Training_Dataset\1694_left.jpg,1694_left.jpg,E:/A07/A07/1/Training_Dataset\1694_right.jpg,1694_right.jpg,52,Male,refractive media opacity,pathological myopia,"M, O"
+1716,E:/A07/A07/1/Training_Dataset\1716_left.jpg,1716_left.jpg,E:/A07/A07/1/Training_Dataset\1716_right.jpg,1716_right.jpg,66,Male,pathological myopia,peripapillary atrophy,"M, O"
+1817,E:/A07/A07/1/Training_Dataset\1817_left.jpg,1817_left.jpg,E:/A07/A07/1/Training_Dataset\1817_right.jpg,1817_right.jpg,51,Female,dry age-related macular degeneration,dry age-related macular degeneration,A
+1834,E:/A07/A07/1/Training_Dataset\1834_left.jpg,1834_left.jpg,E:/A07/A07/1/Training_Dataset\1834_right.jpg,1834_right.jpg,60,Female,dry age-related macular degeneration,dry age-related macular degeneration,A
+1836,E:/A07/A07/1/Training_Dataset\1836_left.jpg,1836_left.jpg,E:/A07/A07/1/Training_Dataset\1836_right.jpg,1836_right.jpg,45,Female,dry age-related macular degeneration,dry age-related macular degeneration,A
+1838,E:/A07/A07/1/Training_Dataset\1838_left.jpg,1838_left.jpg,E:/A07/A07/1/Training_Dataset\1838_right.jpg,1838_right.jpg,62,Male,diabetic retinopathy，post laser photocoagulation,diabetic retinopathy,"D, O"
+1841,E:/A07/A07/1/Training_Dataset\1841_left.jpg,1841_left.jpg,E:/A07/A07/1/Training_Dataset\1841_right.jpg,1841_right.jpg,68,Male,dry age-related macular degeneration,dry age-related macular degeneration,A
+1844,E:/A07/A07/1/Training_Dataset\1844_left.jpg,1844_left.jpg,E:/A07/A07/1/Training_Dataset\1844_right.jpg,1844_right.jpg,67,Male,dry age-related macular degeneration,dry age-related macular degeneration,A
+1845,E:/A07/A07/1/Training_Dataset\1845_left.jpg,1845_left.jpg,E:/A07/A07/1/Training_Dataset\1845_right.jpg,1845_right.jpg,55,Male,dry age-related macular degeneration,dry age-related macular degeneration,A
+1856,E:/A07/A07/1/Training_Dataset\1856_left.jpg,1856_left.jpg,E:/A07/A07/1/Training_Dataset\1856_right.jpg,1856_right.jpg,84,Female,wet age-related macular degeneration,wet age-related macular degeneration,A
+1859,E:/A07/A07/1/Training_Dataset\1859_left.jpg,1859_left.jpg,E:/A07/A07/1/Training_Dataset\1859_right.jpg,1859_right.jpg,59,Male,wet age-related macular degeneration,dry age-related macular degeneration,A
+1868,E:/A07/A07/1/Training_Dataset\1868_left.jpg,1868_left.jpg,E:/A07/A07/1/Training_Dataset\1868_right.jpg,1868_right.jpg,63,Male,normal fundus,dry age-related macular degeneration,A
+1878,E:/A07/A07/1/Training_Dataset\1878_left.jpg,1878_left.jpg,E:/A07/A07/1/Training_Dataset\1878_right.jpg,1878_right.jpg,63,Female,dry age-related macular degeneration,dry age-related macular degeneration,A
+1884,E:/A07/A07/1/Training_Dataset\1884_left.jpg,1884_left.jpg,E:/A07/A07/1/Training_Dataset\1884_right.jpg,1884_right.jpg,78,Female,refractive media opacity,wet age-related macular degeneration,"A, O"
+1885,E:/A07/A07/1/Training_Dataset\1885_left.jpg,1885_left.jpg,E:/A07/A07/1/Training_Dataset\1885_right.jpg,1885_right.jpg,66,Male,dry age-related macular degeneration,wet age-related macular degeneration,A
+1942,E:/A07/A07/1/Training_Dataset\1942_left.jpg,1942_left.jpg,E:/A07/A07/1/Training_Dataset\1942_right.jpg,1942_right.jpg,52,Male,diabetic retinopathy，dry age-related macular degeneration,diabetic retinopathy，dry age-related macular degeneration,"D, A"
+1970,E:/A07/A07/1/Training_Dataset\1970_left.jpg,1970_left.jpg,E:/A07/A07/1/Training_Dataset\1970_right.jpg,1970_right.jpg,81,Female,glaucoma，lens dust,myelinated nerve fibers，lens dust，drusen,"G, O"
+1986,E:/A07/A07/1/Training_Dataset\1986_left.jpg,1986_left.jpg,E:/A07/A07/1/Training_Dataset\1986_right.jpg,1986_right.jpg,70,Male,glaucoma,myelinated nerve fibers，drusen,"G, O"
+2032,E:/A07/A07/1/Training_Dataset\2032_left.jpg,2032_left.jpg,E:/A07/A07/1/Training_Dataset\2032_right.jpg,2032_right.jpg,48,Male,moderate non proliferative retinopathy,moderate non proliferative retinopathy，suspected glaucoma,"D, G"
+2064,E:/A07/A07/1/Training_Dataset\2064_left.jpg,2064_left.jpg,E:/A07/A07/1/Training_Dataset\2064_right.jpg,2064_right.jpg,56,Female,hypertensive retinopathy，diabetic retinopathy,hypertensive retinopathy，diabetic retinopathy,"D, H"
+2095,E:/A07/A07/1/Training_Dataset\2095_left.jpg,2095_left.jpg,E:/A07/A07/1/Training_Dataset\2095_right.jpg,2095_right.jpg,76,Female,normal fundus,cataract,C
+2096,E:/A07/A07/1/Training_Dataset\2096_left.jpg,2096_left.jpg,E:/A07/A07/1/Training_Dataset\2096_right.jpg,2096_right.jpg,74,Male,mild nonproliferative retinopathy,cataract,"D, C"
+2097,E:/A07/A07/1/Training_Dataset\2097_left.jpg,2097_left.jpg,E:/A07/A07/1/Training_Dataset\2097_right.jpg,2097_right.jpg,74,Female,normal fundus,cataract,C
+2098,E:/A07/A07/1/Training_Dataset\2098_left.jpg,2098_left.jpg,E:/A07/A07/1/Training_Dataset\2098_right.jpg,2098_right.jpg,75,Female,cataract,cataract,C
+2117,E:/A07/A07/1/Training_Dataset\2117_left.jpg,2117_left.jpg,E:/A07/A07/1/Training_Dataset\2117_right.jpg,2117_right.jpg,71,Female,cataract,mild nonproliferative retinopathy,"D, C"
+2118,E:/A07/A07/1/Training_Dataset\2118_left.jpg,2118_left.jpg,E:/A07/A07/1/Training_Dataset\2118_right.jpg,2118_right.jpg,77,Female,refractive media opacity,cataract,"C, O"
+2132,E:/A07/A07/1/Training_Dataset\2132_left.jpg,2132_left.jpg,E:/A07/A07/1/Training_Dataset\2132_right.jpg,2132_right.jpg,59,Female,cataract,normal fundus,C
+2133,E:/A07/A07/1/Training_Dataset\2133_left.jpg,2133_left.jpg,E:/A07/A07/1/Training_Dataset\2133_right.jpg,2133_right.jpg,63,Male,cataract,cataract,C
+2159,E:/A07/A07/1/Training_Dataset\2159_left.jpg,2159_left.jpg,E:/A07/A07/1/Training_Dataset\2159_right.jpg,2159_right.jpg,53,Male,cataract,lens dust，normal fundus,C
+2160,E:/A07/A07/1/Training_Dataset\2160_left.jpg,2160_left.jpg,E:/A07/A07/1/Training_Dataset\2160_right.jpg,2160_right.jpg,76,Female,normal fundus,cataract,C
+2174,E:/A07/A07/1/Training_Dataset\2174_left.jpg,2174_left.jpg,E:/A07/A07/1/Training_Dataset\2174_right.jpg,2174_right.jpg,65,Female,normal fundus,cataract,C
+2175,E:/A07/A07/1/Training_Dataset\2175_left.jpg,2175_left.jpg,E:/A07/A07/1/Training_Dataset\2175_right.jpg,2175_right.jpg,63,Male,cataract,normal fundus,C
+2176,E:/A07/A07/1/Training_Dataset\2176_left.jpg,2176_left.jpg,E:/A07/A07/1/Training_Dataset\2176_right.jpg,2176_right.jpg,82,Female,cataract,cataract,C
+2177,E:/A07/A07/1/Training_Dataset\2177_left.jpg,2177_left.jpg,E:/A07/A07/1/Training_Dataset\2177_right.jpg,2177_right.jpg,87,Male,normal fundus，lens dust,cataract,C
+2178,E:/A07/A07/1/Training_Dataset\2178_left.jpg,2178_left.jpg,E:/A07/A07/1/Training_Dataset\2178_right.jpg,2178_right.jpg,84,Male,cataract,cataract,C
+2179,E:/A07/A07/1/Training_Dataset\2179_left.jpg,2179_left.jpg,E:/A07/A07/1/Training_Dataset\2179_right.jpg,2179_right.jpg,70,Female,cataract,cataract,C
+2180,E:/A07/A07/1/Training_Dataset\2180_left.jpg,2180_left.jpg,E:/A07/A07/1/Training_Dataset\2180_right.jpg,2180_right.jpg,66,Female,cataract,cataract,C
+2181,E:/A07/A07/1/Training_Dataset\2181_left.jpg,2181_left.jpg,E:/A07/A07/1/Training_Dataset\2181_right.jpg,2181_right.jpg,79,Female,cataract,cataract,C
+2182,E:/A07/A07/1/Training_Dataset\2182_left.jpg,2182_left.jpg,E:/A07/A07/1/Training_Dataset\2182_right.jpg,2182_right.jpg,70,Male,cataract,cataract,C
+2185,E:/A07/A07/1/Training_Dataset\2185_left.jpg,2185_left.jpg,E:/A07/A07/1/Training_Dataset\2185_right.jpg,2185_right.jpg,72,Female,cataract,drusen,"C, O"
+2187,E:/A07/A07/1/Training_Dataset\2187_left.jpg,2187_left.jpg,E:/A07/A07/1/Training_Dataset\2187_right.jpg,2187_right.jpg,63,Female,normal fundus,cataract,C
+2189,E:/A07/A07/1/Training_Dataset\2189_left.jpg,2189_left.jpg,E:/A07/A07/1/Training_Dataset\2189_right.jpg,2189_right.jpg,81,Female,cataract,cataract,C
+2190,E:/A07/A07/1/Training_Dataset\2190_left.jpg,2190_left.jpg,E:/A07/A07/1/Training_Dataset\2190_right.jpg,2190_right.jpg,84,Female,normal fundus,cataract,C
+2191,E:/A07/A07/1/Training_Dataset\2191_left.jpg,2191_left.jpg,E:/A07/A07/1/Training_Dataset\2191_right.jpg,2191_right.jpg,80,Female,normal fundus,cataract,C
+2201,E:/A07/A07/1/Training_Dataset\2201_left.jpg,2201_left.jpg,E:/A07/A07/1/Training_Dataset\2201_right.jpg,2201_right.jpg,59,Male,mild nonproliferative retinopathy,cataract,"D, C"
+2206,E:/A07/A07/1/Training_Dataset\2206_left.jpg,2206_left.jpg,E:/A07/A07/1/Training_Dataset\2206_right.jpg,2206_right.jpg,65,Female,cataract,cataract,C
+2207,E:/A07/A07/1/Training_Dataset\2207_left.jpg,2207_left.jpg,E:/A07/A07/1/Training_Dataset\2207_right.jpg,2207_right.jpg,65,Male,cataract,cataract,C
+2229,E:/A07/A07/1/Training_Dataset\2229_left.jpg,2229_left.jpg,E:/A07/A07/1/Training_Dataset\2229_right.jpg,2229_right.jpg,59,Female,cataract，lens dust,lens dust，cataract,C
+2230,E:/A07/A07/1/Training_Dataset\2230_left.jpg,2230_left.jpg,E:/A07/A07/1/Training_Dataset\2230_right.jpg,2230_right.jpg,60,Female,lens dust，cataract,lens dust，cataract,C
+2231,E:/A07/A07/1/Training_Dataset\2231_left.jpg,2231_left.jpg,E:/A07/A07/1/Training_Dataset\2231_right.jpg,2231_right.jpg,66,Female,lens dust，cataract,cataract，lens dust,C
+2232,E:/A07/A07/1/Training_Dataset\2232_left.jpg,2232_left.jpg,E:/A07/A07/1/Training_Dataset\2232_right.jpg,2232_right.jpg,75,Male,cataract,cataract,C
+2235,E:/A07/A07/1/Training_Dataset\2235_left.jpg,2235_left.jpg,E:/A07/A07/1/Training_Dataset\2235_right.jpg,2235_right.jpg,64,Male,cataract,normal fundus,C
+2236,E:/A07/A07/1/Training_Dataset\2236_left.jpg,2236_left.jpg,E:/A07/A07/1/Training_Dataset\2236_right.jpg,2236_right.jpg,72,Female,cataract,cataract,C
+2237,E:/A07/A07/1/Training_Dataset\2237_left.jpg,2237_left.jpg,E:/A07/A07/1/Training_Dataset\2237_right.jpg,2237_right.jpg,76,Male,normal fundus,cataract,C
+2239,E:/A07/A07/1/Training_Dataset\2239_left.jpg,2239_left.jpg,E:/A07/A07/1/Training_Dataset\2239_right.jpg,2239_right.jpg,46,Male,cataract,cataract,C
+2340,E:/A07/A07/1/Training_Dataset\2340_left.jpg,2340_left.jpg,E:/A07/A07/1/Training_Dataset\2340_right.jpg,2340_right.jpg,61,Male,normal fundus,normal fundus,N
+2341,E:/A07/A07/1/Training_Dataset\2341_left.jpg,2341_left.jpg,E:/A07/A07/1/Training_Dataset\2341_right.jpg,2341_right.jpg,69,Female,normal fundus,normal fundus,N
+2343,E:/A07/A07/1/Training_Dataset\2343_left.jpg,2343_left.jpg,E:/A07/A07/1/Training_Dataset\2343_right.jpg,2343_right.jpg,53,Male,normal fundus,normal fundus,N
+2346,E:/A07/A07/1/Training_Dataset\2346_left.jpg,2346_left.jpg,E:/A07/A07/1/Training_Dataset\2346_right.jpg,2346_right.jpg,47,Female,normal fundus,normal fundus,N
+2355,E:/A07/A07/1/Training_Dataset\2355_left.jpg,2355_left.jpg,E:/A07/A07/1/Training_Dataset\2355_right.jpg,2355_right.jpg,35,Male,normal fundus,normal fundus,N
+2356,E:/A07/A07/1/Training_Dataset\2356_left.jpg,2356_left.jpg,E:/A07/A07/1/Training_Dataset\2356_right.jpg,2356_right.jpg,51,Male,normal fundus,normal fundus,N
+2361,E:/A07/A07/1/Training_Dataset\2361_left.jpg,2361_left.jpg,E:/A07/A07/1/Training_Dataset\2361_right.jpg,2361_right.jpg,46,Male,normal fundus,normal fundus,N
+2364,E:/A07/A07/1/Training_Dataset\2364_left.jpg,2364_left.jpg,E:/A07/A07/1/Training_Dataset\2364_right.jpg,2364_right.jpg,58,Male,normal fundus,normal fundus,N
+2377,E:/A07/A07/1/Training_Dataset\2377_left.jpg,2377_left.jpg,E:/A07/A07/1/Training_Dataset\2377_right.jpg,2377_right.jpg,51,Male,normal fundus,lens dust，normal fundus,N
+2382,E:/A07/A07/1/Training_Dataset\2382_left.jpg,2382_left.jpg,E:/A07/A07/1/Training_Dataset\2382_right.jpg,2382_right.jpg,47,Female,normal fundus,normal fundus,N
+2384,E:/A07/A07/1/Training_Dataset\2384_left.jpg,2384_left.jpg,E:/A07/A07/1/Training_Dataset\2384_right.jpg,2384_right.jpg,65,Female,normal fundus,normal fundus,N
+2387,E:/A07/A07/1/Training_Dataset\2387_left.jpg,2387_left.jpg,E:/A07/A07/1/Training_Dataset\2387_right.jpg,2387_right.jpg,64,Female,normal fundus,normal fundus,N
+2391,E:/A07/A07/1/Training_Dataset\2391_left.jpg,2391_left.jpg,E:/A07/A07/1/Training_Dataset\2391_right.jpg,2391_right.jpg,52,Female,normal fundus,normal fundus,N
+2403,E:/A07/A07/1/Training_Dataset\2403_left.jpg,2403_left.jpg,E:/A07/A07/1/Training_Dataset\2403_right.jpg,2403_right.jpg,55,Female,normal fundus,normal fundus,N
+2416,E:/A07/A07/1/Training_Dataset\2416_left.jpg,2416_left.jpg,E:/A07/A07/1/Training_Dataset\2416_right.jpg,2416_right.jpg,72,Female,normal fundus,normal fundus,N
+2438,E:/A07/A07/1/Training_Dataset\2438_left.jpg,2438_left.jpg,E:/A07/A07/1/Training_Dataset\2438_right.jpg,2438_right.jpg,56,Female,normal fundus,normal fundus,N
+2449,E:/A07/A07/1/Training_Dataset\2449_left.jpg,2449_left.jpg,E:/A07/A07/1/Training_Dataset\2449_right.jpg,2449_right.jpg,48,Female,normal fundus,normal fundus,N
+2455,E:/A07/A07/1/Training_Dataset\2455_left.jpg,2455_left.jpg,E:/A07/A07/1/Training_Dataset\2455_right.jpg,2455_right.jpg,56,Male,lens dust，normal fundus,lens dust，normal fundus,N
+2465,E:/A07/A07/1/Training_Dataset\2465_left.jpg,2465_left.jpg,E:/A07/A07/1/Training_Dataset\2465_right.jpg,2465_right.jpg,62,Female,normal fundus,normal fundus,N
+2468,E:/A07/A07/1/Training_Dataset\2468_left.jpg,2468_left.jpg,E:/A07/A07/1/Training_Dataset\2468_right.jpg,2468_right.jpg,53,Male,lens dust，normal fundus,lens dust，normal fundus,N
+2476,E:/A07/A07/1/Training_Dataset\2476_left.jpg,2476_left.jpg,E:/A07/A07/1/Training_Dataset\2476_right.jpg,2476_right.jpg,70,Female,normal fundus,normal fundus,N
+2488,E:/A07/A07/1/Training_Dataset\2488_left.jpg,2488_left.jpg,E:/A07/A07/1/Training_Dataset\2488_right.jpg,2488_right.jpg,48,Female,normal fundus,normal fundus,N
+2492,E:/A07/A07/1/Training_Dataset\2492_left.jpg,2492_left.jpg,E:/A07/A07/1/Training_Dataset\2492_right.jpg,2492_right.jpg,43,Male,normal fundus,normal fundus,N
+2496,E:/A07/A07/1/Training_Dataset\2496_left.jpg,2496_left.jpg,E:/A07/A07/1/Training_Dataset\2496_right.jpg,2496_right.jpg,52,Female,lens dust，normal fundus,normal fundus,N
+2498,E:/A07/A07/1/Training_Dataset\2498_left.jpg,2498_left.jpg,E:/A07/A07/1/Training_Dataset\2498_right.jpg,2498_right.jpg,59,Female,normal fundus,normal fundus,N
+2501,E:/A07/A07/1/Training_Dataset\2501_left.jpg,2501_left.jpg,E:/A07/A07/1/Training_Dataset\2501_right.jpg,2501_right.jpg,50,Male,normal fundus,normal fundus,N
+2508,E:/A07/A07/1/Training_Dataset\2508_left.jpg,2508_left.jpg,E:/A07/A07/1/Training_Dataset\2508_right.jpg,2508_right.jpg,74,Male,normal fundus,normal fundus,N
+2510,E:/A07/A07/1/Training_Dataset\2510_left.jpg,2510_left.jpg,E:/A07/A07/1/Training_Dataset\2510_right.jpg,2510_right.jpg,66,Male,normal fundus,normal fundus,N
+2511,E:/A07/A07/1/Training_Dataset\2511_left.jpg,2511_left.jpg,E:/A07/A07/1/Training_Dataset\2511_right.jpg,2511_right.jpg,53,Male,normal fundus,normal fundus,N
+2514,E:/A07/A07/1/Training_Dataset\2514_left.jpg,2514_left.jpg,E:/A07/A07/1/Training_Dataset\2514_right.jpg,2514_right.jpg,62,Male,normal fundus,normal fundus,N
+2519,E:/A07/A07/1/Training_Dataset\2519_left.jpg,2519_left.jpg,E:/A07/A07/1/Training_Dataset\2519_right.jpg,2519_right.jpg,61,Female,normal fundus,normal fundus,N
+2525,E:/A07/A07/1/Training_Dataset\2525_left.jpg,2525_left.jpg,E:/A07/A07/1/Training_Dataset\2525_right.jpg,2525_right.jpg,34,Male,normal fundus,normal fundus,N
+2537,E:/A07/A07/1/Training_Dataset\2537_left.jpg,2537_left.jpg,E:/A07/A07/1/Training_Dataset\2537_right.jpg,2537_right.jpg,56,Male,normal fundus,normal fundus,N
+2541,E:/A07/A07/1/Training_Dataset\2541_left.jpg,2541_left.jpg,E:/A07/A07/1/Training_Dataset\2541_right.jpg,2541_right.jpg,58,Male,normal fundus,normal fundus,N
+2543,E:/A07/A07/1/Training_Dataset\2543_left.jpg,2543_left.jpg,E:/A07/A07/1/Training_Dataset\2543_right.jpg,2543_right.jpg,49,Male,normal fundus,normal fundus,N
+2544,E:/A07/A07/1/Training_Dataset\2544_left.jpg,2544_left.jpg,E:/A07/A07/1/Training_Dataset\2544_right.jpg,2544_right.jpg,57,Male,normal fundus,normal fundus,N
+2550,E:/A07/A07/1/Training_Dataset\2550_left.jpg,2550_left.jpg,E:/A07/A07/1/Training_Dataset\2550_right.jpg,2550_right.jpg,55,Female,lens dust，normal fundus,lens dust，normal fundus,N
+2553,E:/A07/A07/1/Training_Dataset\2553_left.jpg,2553_left.jpg,E:/A07/A07/1/Training_Dataset\2553_right.jpg,2553_right.jpg,54,Female,normal fundus,normal fundus,N
+2557,E:/A07/A07/1/Training_Dataset\2557_left.jpg,2557_left.jpg,E:/A07/A07/1/Training_Dataset\2557_right.jpg,2557_right.jpg,79,Male,normal fundus,normal fundus,N
+2558,E:/A07/A07/1/Training_Dataset\2558_left.jpg,2558_left.jpg,E:/A07/A07/1/Training_Dataset\2558_right.jpg,2558_right.jpg,65,Male,normal fundus,normal fundus,N
+2559,E:/A07/A07/1/Training_Dataset\2559_left.jpg,2559_left.jpg,E:/A07/A07/1/Training_Dataset\2559_right.jpg,2559_right.jpg,52,Male,normal fundus,normal fundus,N
+2561,E:/A07/A07/1/Training_Dataset\2561_left.jpg,2561_left.jpg,E:/A07/A07/1/Training_Dataset\2561_right.jpg,2561_right.jpg,32,Male,normal fundus,normal fundus,N
+2576,E:/A07/A07/1/Training_Dataset\2576_left.jpg,2576_left.jpg,E:/A07/A07/1/Training_Dataset\2576_right.jpg,2576_right.jpg,67,Male,normal fundus,normal fundus,N
+2584,E:/A07/A07/1/Training_Dataset\2584_left.jpg,2584_left.jpg,E:/A07/A07/1/Training_Dataset\2584_right.jpg,2584_right.jpg,62,Female,normal fundus,normal fundus,N
+2590,E:/A07/A07/1/Training_Dataset\2590_left.jpg,2590_left.jpg,E:/A07/A07/1/Training_Dataset\2590_right.jpg,2590_right.jpg,50,Female,normal fundus,normal fundus,N
+2592,E:/A07/A07/1/Training_Dataset\2592_left.jpg,2592_left.jpg,E:/A07/A07/1/Training_Dataset\2592_right.jpg,2592_right.jpg,38,Male,normal fundus,normal fundus,N
+2594,E:/A07/A07/1/Training_Dataset\2594_left.jpg,2594_left.jpg,E:/A07/A07/1/Training_Dataset\2594_right.jpg,2594_right.jpg,61,Male,normal fundus,normal fundus,N
+2605,E:/A07/A07/1/Training_Dataset\2605_left.jpg,2605_left.jpg,E:/A07/A07/1/Training_Dataset\2605_right.jpg,2605_right.jpg,64,Male,normal fundus,normal fundus,N
+2607,E:/A07/A07/1/Training_Dataset\2607_left.jpg,2607_left.jpg,E:/A07/A07/1/Training_Dataset\2607_right.jpg,2607_right.jpg,69,Male,lens dust，normal fundus,lens dust，normal fundus,N
+2609,E:/A07/A07/1/Training_Dataset\2609_left.jpg,2609_left.jpg,E:/A07/A07/1/Training_Dataset\2609_right.jpg,2609_right.jpg,66,Male,normal fundus,normal fundus,N
+2620,E:/A07/A07/1/Training_Dataset\2620_left.jpg,2620_left.jpg,E:/A07/A07/1/Training_Dataset\2620_right.jpg,2620_right.jpg,44,Male,lens dust，normal fundus,lens dust，normal fundus,N
+2625,E:/A07/A07/1/Training_Dataset\2625_left.jpg,2625_left.jpg,E:/A07/A07/1/Training_Dataset\2625_right.jpg,2625_right.jpg,51,Male,normal fundus,normal fundus,N
+2628,E:/A07/A07/1/Training_Dataset\2628_left.jpg,2628_left.jpg,E:/A07/A07/1/Training_Dataset\2628_right.jpg,2628_right.jpg,48,Male,normal fundus,normal fundus,N
+2630,E:/A07/A07/1/Training_Dataset\2630_left.jpg,2630_left.jpg,E:/A07/A07/1/Training_Dataset\2630_right.jpg,2630_right.jpg,43,Male,normal fundus,normal fundus,N
+2632,E:/A07/A07/1/Training_Dataset\2632_left.jpg,2632_left.jpg,E:/A07/A07/1/Training_Dataset\2632_right.jpg,2632_right.jpg,63,Male,normal fundus,normal fundus,N
+2636,E:/A07/A07/1/Training_Dataset\2636_left.jpg,2636_left.jpg,E:/A07/A07/1/Training_Dataset\2636_right.jpg,2636_right.jpg,51,Female,normal fundus,normal fundus,N
+2639,E:/A07/A07/1/Training_Dataset\2639_left.jpg,2639_left.jpg,E:/A07/A07/1/Training_Dataset\2639_right.jpg,2639_right.jpg,65,Female,normal fundus,normal fundus,N
+2646,E:/A07/A07/1/Training_Dataset\2646_left.jpg,2646_left.jpg,E:/A07/A07/1/Training_Dataset\2646_right.jpg,2646_right.jpg,50,Female,normal fundus,normal fundus,N
+2647,E:/A07/A07/1/Training_Dataset\2647_left.jpg,2647_left.jpg,E:/A07/A07/1/Training_Dataset\2647_right.jpg,2647_right.jpg,43,Male,normal fundus,normal fundus,N
+2660,E:/A07/A07/1/Training_Dataset\2660_left.jpg,2660_left.jpg,E:/A07/A07/1/Training_Dataset\2660_right.jpg,2660_right.jpg,66,Female,normal fundus,normal fundus,N
+2665,E:/A07/A07/1/Training_Dataset\2665_left.jpg,2665_left.jpg,E:/A07/A07/1/Training_Dataset\2665_right.jpg,2665_right.jpg,63,Male,normal fundus,normal fundus,N
+2680,E:/A07/A07/1/Training_Dataset\2680_left.jpg,2680_left.jpg,E:/A07/A07/1/Training_Dataset\2680_right.jpg,2680_right.jpg,51,Female,normal fundus,normal fundus,N
+2690,E:/A07/A07/1/Training_Dataset\2690_left.jpg,2690_left.jpg,E:/A07/A07/1/Training_Dataset\2690_right.jpg,2690_right.jpg,34,Female,normal fundus,normal fundus,N
+2695,E:/A07/A07/1/Training_Dataset\2695_left.jpg,2695_left.jpg,E:/A07/A07/1/Training_Dataset\2695_right.jpg,2695_right.jpg,63,Male,normal fundus,normal fundus,N
+2698,E:/A07/A07/1/Training_Dataset\2698_left.jpg,2698_left.jpg,E:/A07/A07/1/Training_Dataset\2698_right.jpg,2698_right.jpg,74,Female,normal fundus,normal fundus,N
+2710,E:/A07/A07/1/Training_Dataset\2710_left.jpg,2710_left.jpg,E:/A07/A07/1/Training_Dataset\2710_right.jpg,2710_right.jpg,52,Male,normal fundus,normal fundus,N
+2713,E:/A07/A07/1/Training_Dataset\2713_left.jpg,2713_left.jpg,E:/A07/A07/1/Training_Dataset\2713_right.jpg,2713_right.jpg,57,Male,normal fundus,normal fundus,N
+2714,E:/A07/A07/1/Training_Dataset\2714_left.jpg,2714_left.jpg,E:/A07/A07/1/Training_Dataset\2714_right.jpg,2714_right.jpg,55,Male,normal fundus,normal fundus,N
+2734,E:/A07/A07/1/Training_Dataset\2734_left.jpg,2734_left.jpg,E:/A07/A07/1/Training_Dataset\2734_right.jpg,2734_right.jpg,1,Female,lens dust，normal fundus,lens dust，normal fundus,N
+2737,E:/A07/A07/1/Training_Dataset\2737_left.jpg,2737_left.jpg,E:/A07/A07/1/Training_Dataset\2737_right.jpg,2737_right.jpg,56,Male,lens dust，normal fundus,normal fundus,N
+2742,E:/A07/A07/1/Training_Dataset\2742_left.jpg,2742_left.jpg,E:/A07/A07/1/Training_Dataset\2742_right.jpg,2742_right.jpg,53,Female,normal fundus,normal fundus,N
+2765,E:/A07/A07/1/Training_Dataset\2765_left.jpg,2765_left.jpg,E:/A07/A07/1/Training_Dataset\2765_right.jpg,2765_right.jpg,65,Male,normal fundus,normal fundus,N
+2767,E:/A07/A07/1/Training_Dataset\2767_left.jpg,2767_left.jpg,E:/A07/A07/1/Training_Dataset\2767_right.jpg,2767_right.jpg,59,Male,normal fundus,normal fundus,N
+2768,E:/A07/A07/1/Training_Dataset\2768_left.jpg,2768_left.jpg,E:/A07/A07/1/Training_Dataset\2768_right.jpg,2768_right.jpg,67,Male,normal fundus,normal fundus,N
+2770,E:/A07/A07/1/Training_Dataset\2770_left.jpg,2770_left.jpg,E:/A07/A07/1/Training_Dataset\2770_right.jpg,2770_right.jpg,59,Female,normal fundus,normal fundus,N
+2772,E:/A07/A07/1/Training_Dataset\2772_left.jpg,2772_left.jpg,E:/A07/A07/1/Training_Dataset\2772_right.jpg,2772_right.jpg,41,Male,normal fundus,normal fundus,N
+2778,E:/A07/A07/1/Training_Dataset\2778_left.jpg,2778_left.jpg,E:/A07/A07/1/Training_Dataset\2778_right.jpg,2778_right.jpg,56,Female,normal fundus,normal fundus,N
+2780,E:/A07/A07/1/Training_Dataset\2780_left.jpg,2780_left.jpg,E:/A07/A07/1/Training_Dataset\2780_right.jpg,2780_right.jpg,57,Male,normal fundus,normal fundus,N
+2791,E:/A07/A07/1/Training_Dataset\2791_left.jpg,2791_left.jpg,E:/A07/A07/1/Training_Dataset\2791_right.jpg,2791_right.jpg,77,Male,normal fundus,normal fundus,N
+2805,E:/A07/A07/1/Training_Dataset\2805_left.jpg,2805_left.jpg,E:/A07/A07/1/Training_Dataset\2805_right.jpg,2805_right.jpg,49,Male,normal fundus,normal fundus,N
+2812,E:/A07/A07/1/Training_Dataset\2812_left.jpg,2812_left.jpg,E:/A07/A07/1/Training_Dataset\2812_right.jpg,2812_right.jpg,63,Female,normal fundus,normal fundus,N
+2816,E:/A07/A07/1/Training_Dataset\2816_left.jpg,2816_left.jpg,E:/A07/A07/1/Training_Dataset\2816_right.jpg,2816_right.jpg,55,Male,normal fundus,normal fundus,N
+2818,E:/A07/A07/1/Training_Dataset\2818_left.jpg,2818_left.jpg,E:/A07/A07/1/Training_Dataset\2818_right.jpg,2818_right.jpg,49,Male,normal fundus,normal fundus,N
+2843,E:/A07/A07/1/Training_Dataset\2843_left.jpg,2843_left.jpg,E:/A07/A07/1/Training_Dataset\2843_right.jpg,2843_right.jpg,60,Male,normal fundus,normal fundus,N
+2844,E:/A07/A07/1/Training_Dataset\2844_left.jpg,2844_left.jpg,E:/A07/A07/1/Training_Dataset\2844_right.jpg,2844_right.jpg,50,Male,normal fundus,normal fundus,N
+2848,E:/A07/A07/1/Training_Dataset\2848_left.jpg,2848_left.jpg,E:/A07/A07/1/Training_Dataset\2848_right.jpg,2848_right.jpg,61,Female,normal fundus,normal fundus,N
+2850,E:/A07/A07/1/Training_Dataset\2850_left.jpg,2850_left.jpg,E:/A07/A07/1/Training_Dataset\2850_right.jpg,2850_right.jpg,44,Male,normal fundus,normal fundus,N
+2852,E:/A07/A07/1/Training_Dataset\2852_left.jpg,2852_left.jpg,E:/A07/A07/1/Training_Dataset\2852_right.jpg,2852_right.jpg,64,Male,normal fundus,normal fundus,N
+2856,E:/A07/A07/1/Training_Dataset\2856_left.jpg,2856_left.jpg,E:/A07/A07/1/Training_Dataset\2856_right.jpg,2856_right.jpg,59,Male,normal fundus,normal fundus,N
+2864,E:/A07/A07/1/Training_Dataset\2864_left.jpg,2864_left.jpg,E:/A07/A07/1/Training_Dataset\2864_right.jpg,2864_right.jpg,65,Male,normal fundus,normal fundus,N
+2865,E:/A07/A07/1/Training_Dataset\2865_left.jpg,2865_left.jpg,E:/A07/A07/1/Training_Dataset\2865_right.jpg,2865_right.jpg,63,Female,normal fundus,normal fundus,N
+2866,E:/A07/A07/1/Training_Dataset\2866_left.jpg,2866_left.jpg,E:/A07/A07/1/Training_Dataset\2866_right.jpg,2866_right.jpg,58,Male,normal fundus,normal fundus,N
+2872,E:/A07/A07/1/Training_Dataset\2872_left.jpg,2872_left.jpg,E:/A07/A07/1/Training_Dataset\2872_right.jpg,2872_right.jpg,72,Male,normal fundus,normal fundus,N
+2875,E:/A07/A07/1/Training_Dataset\2875_left.jpg,2875_left.jpg,E:/A07/A07/1/Training_Dataset\2875_right.jpg,2875_right.jpg,65,Female,lens dust，normal fundus,lens dust，normal fundus,N
+2877,E:/A07/A07/1/Training_Dataset\2877_left.jpg,2877_left.jpg,E:/A07/A07/1/Training_Dataset\2877_right.jpg,2877_right.jpg,43,Female,normal fundus,normal fundus,N
+2892,E:/A07/A07/1/Training_Dataset\2892_left.jpg,2892_left.jpg,E:/A07/A07/1/Training_Dataset\2892_right.jpg,2892_right.jpg,72,Male,normal fundus,normal fundus,N
+2898,E:/A07/A07/1/Training_Dataset\2898_left.jpg,2898_left.jpg,E:/A07/A07/1/Training_Dataset\2898_right.jpg,2898_right.jpg,54,Male,normal fundus,normal fundus,N
+2899,E:/A07/A07/1/Training_Dataset\2899_left.jpg,2899_left.jpg,E:/A07/A07/1/Training_Dataset\2899_right.jpg,2899_right.jpg,55,Female,normal fundus,normal fundus,N
+2908,E:/A07/A07/1/Training_Dataset\2908_left.jpg,2908_left.jpg,E:/A07/A07/1/Training_Dataset\2908_right.jpg,2908_right.jpg,55,Female,normal fundus,normal fundus,N
+2911,E:/A07/A07/1/Training_Dataset\2911_left.jpg,2911_left.jpg,E:/A07/A07/1/Training_Dataset\2911_right.jpg,2911_right.jpg,66,Female,normal fundus,normal fundus,N
+2912,E:/A07/A07/1/Training_Dataset\2912_left.jpg,2912_left.jpg,E:/A07/A07/1/Training_Dataset\2912_right.jpg,2912_right.jpg,40,Male,normal fundus,normal fundus,N
+2918,E:/A07/A07/1/Training_Dataset\2918_left.jpg,2918_left.jpg,E:/A07/A07/1/Training_Dataset\2918_right.jpg,2918_right.jpg,75,Male,normal fundus,normal fundus,N
+2920,E:/A07/A07/1/Training_Dataset\2920_left.jpg,2920_left.jpg,E:/A07/A07/1/Training_Dataset\2920_right.jpg,2920_right.jpg,74,Female,normal fundus,normal fundus,N
+2922,E:/A07/A07/1/Training_Dataset\2922_left.jpg,2922_left.jpg,E:/A07/A07/1/Training_Dataset\2922_right.jpg,2922_right.jpg,69,Female,lens dust，normal fundus,lens dust，normal fundus,N
+2926,E:/A07/A07/1/Training_Dataset\2926_left.jpg,2926_left.jpg,E:/A07/A07/1/Training_Dataset\2926_right.jpg,2926_right.jpg,52,Female,normal fundus,normal fundus,N
+2927,E:/A07/A07/1/Training_Dataset\2927_left.jpg,2927_left.jpg,E:/A07/A07/1/Training_Dataset\2927_right.jpg,2927_right.jpg,56,Male,normal fundus,normal fundus,N
+2931,E:/A07/A07/1/Training_Dataset\2931_left.jpg,2931_left.jpg,E:/A07/A07/1/Training_Dataset\2931_right.jpg,2931_right.jpg,67,Male,normal fundus,normal fundus,N
+2937,E:/A07/A07/1/Training_Dataset\2937_left.jpg,2937_left.jpg,E:/A07/A07/1/Training_Dataset\2937_right.jpg,2937_right.jpg,85,Female,normal fundus,normal fundus,N
+2940,E:/A07/A07/1/Training_Dataset\2940_left.jpg,2940_left.jpg,E:/A07/A07/1/Training_Dataset\2940_right.jpg,2940_right.jpg,35,Female,normal fundus,normal fundus,N
+2942,E:/A07/A07/1/Training_Dataset\2942_left.jpg,2942_left.jpg,E:/A07/A07/1/Training_Dataset\2942_right.jpg,2942_right.jpg,73,Male,normal fundus,normal fundus,N
+2950,E:/A07/A07/1/Training_Dataset\2950_left.jpg,2950_left.jpg,E:/A07/A07/1/Training_Dataset\2950_right.jpg,2950_right.jpg,45,Male,normal fundus,normal fundus,N
+2957,E:/A07/A07/1/Training_Dataset\2957_left.jpg,2957_left.jpg,E:/A07/A07/1/Training_Dataset\2957_right.jpg,2957_right.jpg,62,Female,normal fundus,normal fundus,N
+2958,E:/A07/A07/1/Training_Dataset\2958_left.jpg,2958_left.jpg,E:/A07/A07/1/Training_Dataset\2958_right.jpg,2958_right.jpg,61,Female,normal fundus,normal fundus,N
+2960,E:/A07/A07/1/Training_Dataset\2960_left.jpg,2960_left.jpg,E:/A07/A07/1/Training_Dataset\2960_right.jpg,2960_right.jpg,40,Male,normal fundus,normal fundus,N
+2972,E:/A07/A07/1/Training_Dataset\2972_left.jpg,2972_left.jpg,E:/A07/A07/1/Training_Dataset\2972_right.jpg,2972_right.jpg,54,Female,normal fundus,normal fundus,N
+2977,E:/A07/A07/1/Training_Dataset\2977_left.jpg,2977_left.jpg,E:/A07/A07/1/Training_Dataset\2977_right.jpg,2977_right.jpg,64,Male,normal fundus,normal fundus,N
+2981,E:/A07/A07/1/Training_Dataset\2981_left.jpg,2981_left.jpg,E:/A07/A07/1/Training_Dataset\2981_right.jpg,2981_right.jpg,68,Female,normal fundus,normal fundus,N
+2992,E:/A07/A07/1/Training_Dataset\2992_left.jpg,2992_left.jpg,E:/A07/A07/1/Training_Dataset\2992_right.jpg,2992_right.jpg,74,Male,normal fundus,normal fundus,N
+2996,E:/A07/A07/1/Training_Dataset\2996_left.jpg,2996_left.jpg,E:/A07/A07/1/Training_Dataset\2996_right.jpg,2996_right.jpg,32,Female,normal fundus,normal fundus,N
+2998,E:/A07/A07/1/Training_Dataset\2998_left.jpg,2998_left.jpg,E:/A07/A07/1/Training_Dataset\2998_right.jpg,2998_right.jpg,49,Male,normal fundus,normal fundus,N
+3002,E:/A07/A07/1/Training_Dataset\3002_left.jpg,3002_left.jpg,E:/A07/A07/1/Training_Dataset\3002_right.jpg,3002_right.jpg,61,Female,normal fundus,normal fundus,N
+3003,E:/A07/A07/1/Training_Dataset\3003_left.jpg,3003_left.jpg,E:/A07/A07/1/Training_Dataset\3003_right.jpg,3003_right.jpg,59,Male,normal fundus,normal fundus,N
+3009,E:/A07/A07/1/Training_Dataset\3009_left.jpg,3009_left.jpg,E:/A07/A07/1/Training_Dataset\3009_right.jpg,3009_right.jpg,74,Female,normal fundus,normal fundus,N
+3016,E:/A07/A07/1/Training_Dataset\3016_left.jpg,3016_left.jpg,E:/A07/A07/1/Training_Dataset\3016_right.jpg,3016_right.jpg,46,Female,normal fundus,normal fundus,N
+3018,E:/A07/A07/1/Training_Dataset\3018_left.jpg,3018_left.jpg,E:/A07/A07/1/Training_Dataset\3018_right.jpg,3018_right.jpg,45,Male,normal fundus,normal fundus,N
+3022,E:/A07/A07/1/Training_Dataset\3022_left.jpg,3022_left.jpg,E:/A07/A07/1/Training_Dataset\3022_right.jpg,3022_right.jpg,55,Male,lens dust，normal fundus,lens dust，normal fundus,N
+3028,E:/A07/A07/1/Training_Dataset\3028_left.jpg,3028_left.jpg,E:/A07/A07/1/Training_Dataset\3028_right.jpg,3028_right.jpg,51,Male,normal fundus,normal fundus,N
+3030,E:/A07/A07/1/Training_Dataset\3030_left.jpg,3030_left.jpg,E:/A07/A07/1/Training_Dataset\3030_right.jpg,3030_right.jpg,66,Male,normal fundus,normal fundus,N
+3034,E:/A07/A07/1/Training_Dataset\3034_left.jpg,3034_left.jpg,E:/A07/A07/1/Training_Dataset\3034_right.jpg,3034_right.jpg,48,Male,normal fundus,normal fundus,N
+3035,E:/A07/A07/1/Training_Dataset\3035_left.jpg,3035_left.jpg,E:/A07/A07/1/Training_Dataset\3035_right.jpg,3035_right.jpg,80,Female,normal fundus,normal fundus,N
+3041,E:/A07/A07/1/Training_Dataset\3041_left.jpg,3041_left.jpg,E:/A07/A07/1/Training_Dataset\3041_right.jpg,3041_right.jpg,53,Male,normal fundus,normal fundus,N
+3042,E:/A07/A07/1/Training_Dataset\3042_left.jpg,3042_left.jpg,E:/A07/A07/1/Training_Dataset\3042_right.jpg,3042_right.jpg,66,Female,normal fundus,normal fundus,N
+3043,E:/A07/A07/1/Training_Dataset\3043_left.jpg,3043_left.jpg,E:/A07/A07/1/Training_Dataset\3043_right.jpg,3043_right.jpg,68,Female,normal fundus,normal fundus,N
+3044,E:/A07/A07/1/Training_Dataset\3044_left.jpg,3044_left.jpg,E:/A07/A07/1/Training_Dataset\3044_right.jpg,3044_right.jpg,60,Female,normal fundus,normal fundus,N
+3045,E:/A07/A07/1/Training_Dataset\3045_left.jpg,3045_left.jpg,E:/A07/A07/1/Training_Dataset\3045_right.jpg,3045_right.jpg,32,Female,normal fundus,normal fundus,N
+3049,E:/A07/A07/1/Training_Dataset\3049_left.jpg,3049_left.jpg,E:/A07/A07/1/Training_Dataset\3049_right.jpg,3049_right.jpg,46,Female,normal fundus,lens dust，normal fundus,N
+3051,E:/A07/A07/1/Training_Dataset\3051_left.jpg,3051_left.jpg,E:/A07/A07/1/Training_Dataset\3051_right.jpg,3051_right.jpg,56,Male,normal fundus,normal fundus,N
+3052,E:/A07/A07/1/Training_Dataset\3052_left.jpg,3052_left.jpg,E:/A07/A07/1/Training_Dataset\3052_right.jpg,3052_right.jpg,71,Female,normal fundus,normal fundus,N
+3065,E:/A07/A07/1/Training_Dataset\3065_left.jpg,3065_left.jpg,E:/A07/A07/1/Training_Dataset\3065_right.jpg,3065_right.jpg,60,Male,normal fundus,normal fundus,N
+3080,E:/A07/A07/1/Training_Dataset\3080_left.jpg,3080_left.jpg,E:/A07/A07/1/Training_Dataset\3080_right.jpg,3080_right.jpg,76,Male,normal fundus,normal fundus,N
+3081,E:/A07/A07/1/Training_Dataset\3081_left.jpg,3081_left.jpg,E:/A07/A07/1/Training_Dataset\3081_right.jpg,3081_right.jpg,67,Female,normal fundus,normal fundus,N
+3099,E:/A07/A07/1/Training_Dataset\3099_left.jpg,3099_left.jpg,E:/A07/A07/1/Training_Dataset\3099_right.jpg,3099_right.jpg,61,Female,normal fundus,normal fundus,N
+3107,E:/A07/A07/1/Training_Dataset\3107_left.jpg,3107_left.jpg,E:/A07/A07/1/Training_Dataset\3107_right.jpg,3107_right.jpg,44,Male,normal fundus,normal fundus,N
+3110,E:/A07/A07/1/Training_Dataset\3110_left.jpg,3110_left.jpg,E:/A07/A07/1/Training_Dataset\3110_right.jpg,3110_right.jpg,52,Male,normal fundus,normal fundus,N
+3116,E:/A07/A07/1/Training_Dataset\3116_left.jpg,3116_left.jpg,E:/A07/A07/1/Training_Dataset\3116_right.jpg,3116_right.jpg,68,Female,normal fundus,normal fundus,N
+3120,E:/A07/A07/1/Training_Dataset\3120_left.jpg,3120_left.jpg,E:/A07/A07/1/Training_Dataset\3120_right.jpg,3120_right.jpg,67,Male,normal fundus,normal fundus,N
+3121,E:/A07/A07/1/Training_Dataset\3121_left.jpg,3121_left.jpg,E:/A07/A07/1/Training_Dataset\3121_right.jpg,3121_right.jpg,69,Male,normal fundus,normal fundus,N
+3131,E:/A07/A07/1/Training_Dataset\3131_left.jpg,3131_left.jpg,E:/A07/A07/1/Training_Dataset\3131_right.jpg,3131_right.jpg,37,Male,normal fundus,normal fundus,N
+3133,E:/A07/A07/1/Training_Dataset\3133_left.jpg,3133_left.jpg,E:/A07/A07/1/Training_Dataset\3133_right.jpg,3133_right.jpg,56,Male,lens dust，normal fundus,lens dust，normal fundus,N
+3136,E:/A07/A07/1/Training_Dataset\3136_left.jpg,3136_left.jpg,E:/A07/A07/1/Training_Dataset\3136_right.jpg,3136_right.jpg,45,Male,normal fundus,normal fundus,N
+3139,E:/A07/A07/1/Training_Dataset\3139_left.jpg,3139_left.jpg,E:/A07/A07/1/Training_Dataset\3139_right.jpg,3139_right.jpg,54,Female,normal fundus,normal fundus,N
+3145,E:/A07/A07/1/Training_Dataset\3145_left.jpg,3145_left.jpg,E:/A07/A07/1/Training_Dataset\3145_right.jpg,3145_right.jpg,57,Female,normal fundus,normal fundus,N
+3147,E:/A07/A07/1/Training_Dataset\3147_left.jpg,3147_left.jpg,E:/A07/A07/1/Training_Dataset\3147_right.jpg,3147_right.jpg,55,Male,normal fundus,normal fundus,N
+3151,E:/A07/A07/1/Training_Dataset\3151_left.jpg,3151_left.jpg,E:/A07/A07/1/Training_Dataset\3151_right.jpg,3151_right.jpg,67,Female,normal fundus,normal fundus,N
+3152,E:/A07/A07/1/Training_Dataset\3152_left.jpg,3152_left.jpg,E:/A07/A07/1/Training_Dataset\3152_right.jpg,3152_right.jpg,62,Male,normal fundus,normal fundus,N
+3154,E:/A07/A07/1/Training_Dataset\3154_left.jpg,3154_left.jpg,E:/A07/A07/1/Training_Dataset\3154_right.jpg,3154_right.jpg,55,Female,normal fundus，lens dust,lens dust，normal fundus,N
+3155,E:/A07/A07/1/Training_Dataset\3155_left.jpg,3155_left.jpg,E:/A07/A07/1/Training_Dataset\3155_right.jpg,3155_right.jpg,48,Female,normal fundus,normal fundus,N
+3165,E:/A07/A07/1/Training_Dataset\3165_left.jpg,3165_left.jpg,E:/A07/A07/1/Training_Dataset\3165_right.jpg,3165_right.jpg,40,Male,normal fundus,normal fundus,N
+3171,E:/A07/A07/1/Training_Dataset\3171_left.jpg,3171_left.jpg,E:/A07/A07/1/Training_Dataset\3171_right.jpg,3171_right.jpg,65,Male,normal fundus,normal fundus,N
+3177,E:/A07/A07/1/Training_Dataset\3177_left.jpg,3177_left.jpg,E:/A07/A07/1/Training_Dataset\3177_right.jpg,3177_right.jpg,66,Female,normal fundus,normal fundus,N
+3178,E:/A07/A07/1/Training_Dataset\3178_left.jpg,3178_left.jpg,E:/A07/A07/1/Training_Dataset\3178_right.jpg,3178_right.jpg,61,Female,normal fundus,normal fundus,N
+3181,E:/A07/A07/1/Training_Dataset\3181_left.jpg,3181_left.jpg,E:/A07/A07/1/Training_Dataset\3181_right.jpg,3181_right.jpg,43,Female,lens dust，normal fundus,normal fundus，lens dust,N
+3190,E:/A07/A07/1/Training_Dataset\3190_left.jpg,3190_left.jpg,E:/A07/A07/1/Training_Dataset\3190_right.jpg,3190_right.jpg,51,Male,normal fundus,normal fundus,N
+3191,E:/A07/A07/1/Training_Dataset\3191_left.jpg,3191_left.jpg,E:/A07/A07/1/Training_Dataset\3191_right.jpg,3191_right.jpg,57,Male,normal fundus,normal fundus,N
+3192,E:/A07/A07/1/Training_Dataset\3192_left.jpg,3192_left.jpg,E:/A07/A07/1/Training_Dataset\3192_right.jpg,3192_right.jpg,58,Male,normal fundus,normal fundus,N
+3198,E:/A07/A07/1/Training_Dataset\3198_left.jpg,3198_left.jpg,E:/A07/A07/1/Training_Dataset\3198_right.jpg,3198_right.jpg,56,Male,normal fundus,normal fundus,N
+3207,E:/A07/A07/1/Training_Dataset\3207_left.jpg,3207_left.jpg,E:/A07/A07/1/Training_Dataset\3207_right.jpg,3207_right.jpg,47,Female,normal fundus,normal fundus,N
+3208,E:/A07/A07/1/Training_Dataset\3208_left.jpg,3208_left.jpg,E:/A07/A07/1/Training_Dataset\3208_right.jpg,3208_right.jpg,67,Male,normal fundus,normal fundus,N
+3214,E:/A07/A07/1/Training_Dataset\3214_left.jpg,3214_left.jpg,E:/A07/A07/1/Training_Dataset\3214_right.jpg,3214_right.jpg,47,Male,normal fundus,normal fundus,N
+3242,E:/A07/A07/1/Training_Dataset\3242_left.jpg,3242_left.jpg,E:/A07/A07/1/Training_Dataset\3242_right.jpg,3242_right.jpg,46,Male,normal fundus,normal fundus,N
+3243,E:/A07/A07/1/Training_Dataset\3243_left.jpg,3243_left.jpg,E:/A07/A07/1/Training_Dataset\3243_right.jpg,3243_right.jpg,56,Female,normal fundus,normal fundus,N
+3244,E:/A07/A07/1/Training_Dataset\3244_left.jpg,3244_left.jpg,E:/A07/A07/1/Training_Dataset\3244_right.jpg,3244_right.jpg,45,Female,normal fundus,normal fundus,N
+3246,E:/A07/A07/1/Training_Dataset\3246_left.jpg,3246_left.jpg,E:/A07/A07/1/Training_Dataset\3246_right.jpg,3246_right.jpg,42,Male,normal fundus,normal fundus,N
+3247,E:/A07/A07/1/Training_Dataset\3247_left.jpg,3247_left.jpg,E:/A07/A07/1/Training_Dataset\3247_right.jpg,3247_right.jpg,64,Female,normal fundus,normal fundus,N
+3257,E:/A07/A07/1/Training_Dataset\3257_left.jpg,3257_left.jpg,E:/A07/A07/1/Training_Dataset\3257_right.jpg,3257_right.jpg,56,Male,normal fundus,normal fundus,N
+3258,E:/A07/A07/1/Training_Dataset\3258_left.jpg,3258_left.jpg,E:/A07/A07/1/Training_Dataset\3258_right.jpg,3258_right.jpg,64,Female,normal fundus,normal fundus,N
+3260,E:/A07/A07/1/Training_Dataset\3260_left.jpg,3260_left.jpg,E:/A07/A07/1/Training_Dataset\3260_right.jpg,3260_right.jpg,57,Female,normal fundus,normal fundus,N
+3261,E:/A07/A07/1/Training_Dataset\3261_left.jpg,3261_left.jpg,E:/A07/A07/1/Training_Dataset\3261_right.jpg,3261_right.jpg,53,Male,normal fundus,normal fundus,N
+3267,E:/A07/A07/1/Training_Dataset\3267_left.jpg,3267_left.jpg,E:/A07/A07/1/Training_Dataset\3267_right.jpg,3267_right.jpg,37,Male,normal fundus,normal fundus,N
+3269,E:/A07/A07/1/Training_Dataset\3269_left.jpg,3269_left.jpg,E:/A07/A07/1/Training_Dataset\3269_right.jpg,3269_right.jpg,61,Male,normal fundus,normal fundus,N
+3270,E:/A07/A07/1/Training_Dataset\3270_left.jpg,3270_left.jpg,E:/A07/A07/1/Training_Dataset\3270_right.jpg,3270_right.jpg,46,Male,normal fundus,normal fundus,N
+3274,E:/A07/A07/1/Training_Dataset\3274_left.jpg,3274_left.jpg,E:/A07/A07/1/Training_Dataset\3274_right.jpg,3274_right.jpg,39,Female,normal fundus,normal fundus,N
+3275,E:/A07/A07/1/Training_Dataset\3275_left.jpg,3275_left.jpg,E:/A07/A07/1/Training_Dataset\3275_right.jpg,3275_right.jpg,59,Female,normal fundus,normal fundus,N
+3290,E:/A07/A07/1/Training_Dataset\3290_left.jpg,3290_left.jpg,E:/A07/A07/1/Training_Dataset\3290_right.jpg,3290_right.jpg,72,Male,normal fundus,normal fundus,N
+3291,E:/A07/A07/1/Training_Dataset\3291_left.jpg,3291_left.jpg,E:/A07/A07/1/Training_Dataset\3291_right.jpg,3291_right.jpg,61,Female,normal fundus,normal fundus,N
+3298,E:/A07/A07/1/Training_Dataset\3298_left.jpg,3298_left.jpg,E:/A07/A07/1/Training_Dataset\3298_right.jpg,3298_right.jpg,65,Male,normal fundus,normal fundus,N
+3300,E:/A07/A07/1/Training_Dataset\3300_left.jpg,3300_left.jpg,E:/A07/A07/1/Training_Dataset\3300_right.jpg,3300_right.jpg,60,Female,normal fundus，lens dust,normal fundus,N
+3306,E:/A07/A07/1/Training_Dataset\3306_left.jpg,3306_left.jpg,E:/A07/A07/1/Training_Dataset\3306_right.jpg,3306_right.jpg,62,Male,normal fundus,normal fundus,N
+3312,E:/A07/A07/1/Training_Dataset\3312_left.jpg,3312_left.jpg,E:/A07/A07/1/Training_Dataset\3312_right.jpg,3312_right.jpg,74,Male,normal fundus,normal fundus,N
+3316,E:/A07/A07/1/Training_Dataset\3316_left.jpg,3316_left.jpg,E:/A07/A07/1/Training_Dataset\3316_right.jpg,3316_right.jpg,70,Female,normal fundus,normal fundus,N
+3330,E:/A07/A07/1/Training_Dataset\3330_left.jpg,3330_left.jpg,E:/A07/A07/1/Training_Dataset\3330_right.jpg,3330_right.jpg,49,Male,normal fundus,normal fundus,N
+3337,E:/A07/A07/1/Training_Dataset\3337_left.jpg,3337_left.jpg,E:/A07/A07/1/Training_Dataset\3337_right.jpg,3337_right.jpg,49,Male,normal fundus,normal fundus,N
+3339,E:/A07/A07/1/Training_Dataset\3339_left.jpg,3339_left.jpg,E:/A07/A07/1/Training_Dataset\3339_right.jpg,3339_right.jpg,55,Female,normal fundus,normal fundus,N
+3345,E:/A07/A07/1/Training_Dataset\3345_left.jpg,3345_left.jpg,E:/A07/A07/1/Training_Dataset\3345_right.jpg,3345_right.jpg,65,Female,normal fundus,normal fundus,N
+3346,E:/A07/A07/1/Training_Dataset\3346_left.jpg,3346_left.jpg,E:/A07/A07/1/Training_Dataset\3346_right.jpg,3346_right.jpg,65,Female,lens dust，normal fundus,normal fundus,N
+3356,E:/A07/A07/1/Training_Dataset\3356_left.jpg,3356_left.jpg,E:/A07/A07/1/Training_Dataset\3356_right.jpg,3356_right.jpg,47,Male,normal fundus,normal fundus,N
+3366,E:/A07/A07/1/Training_Dataset\3366_left.jpg,3366_left.jpg,E:/A07/A07/1/Training_Dataset\3366_right.jpg,3366_right.jpg,54,Female,normal fundus,normal fundus,N
+3371,E:/A07/A07/1/Training_Dataset\3371_left.jpg,3371_left.jpg,E:/A07/A07/1/Training_Dataset\3371_right.jpg,3371_right.jpg,36,Male,normal fundus,normal fundus,N
+3374,E:/A07/A07/1/Training_Dataset\3374_left.jpg,3374_left.jpg,E:/A07/A07/1/Training_Dataset\3374_right.jpg,3374_right.jpg,55,Female,normal fundus,normal fundus,N
+3376,E:/A07/A07/1/Training_Dataset\3376_left.jpg,3376_left.jpg,E:/A07/A07/1/Training_Dataset\3376_right.jpg,3376_right.jpg,53,Female,normal fundus,normal fundus,N
+3406,E:/A07/A07/1/Training_Dataset\3406_left.jpg,3406_left.jpg,E:/A07/A07/1/Training_Dataset\3406_right.jpg,3406_right.jpg,46,Female,normal fundus,normal fundus,N
+3409,E:/A07/A07/1/Training_Dataset\3409_left.jpg,3409_left.jpg,E:/A07/A07/1/Training_Dataset\3409_right.jpg,3409_right.jpg,57,Female,normal fundus,normal fundus,N
+3414,E:/A07/A07/1/Training_Dataset\3414_left.jpg,3414_left.jpg,E:/A07/A07/1/Training_Dataset\3414_right.jpg,3414_right.jpg,62,Male,normal fundus,normal fundus,N
+3420,E:/A07/A07/1/Training_Dataset\3420_left.jpg,3420_left.jpg,E:/A07/A07/1/Training_Dataset\3420_right.jpg,3420_right.jpg,55,Female,normal fundus,normal fundus,N
+3421,E:/A07/A07/1/Training_Dataset\3421_left.jpg,3421_left.jpg,E:/A07/A07/1/Training_Dataset\3421_right.jpg,3421_right.jpg,40,Male,normal fundus,normal fundus,N
+3436,E:/A07/A07/1/Training_Dataset\3436_left.jpg,3436_left.jpg,E:/A07/A07/1/Training_Dataset\3436_right.jpg,3436_right.jpg,58,Female,normal fundus,normal fundus,N
+3441,E:/A07/A07/1/Training_Dataset\3441_left.jpg,3441_left.jpg,E:/A07/A07/1/Training_Dataset\3441_right.jpg,3441_right.jpg,44,Male,normal fundus,normal fundus,N
+3445,E:/A07/A07/1/Training_Dataset\3445_left.jpg,3445_left.jpg,E:/A07/A07/1/Training_Dataset\3445_right.jpg,3445_right.jpg,51,Male,normal fundus,normal fundus,N
+3932,E:/A07/A07/1/Training_Dataset\3932_left.jpg,3932_left.jpg,E:/A07/A07/1/Training_Dataset\3932_right.jpg,3932_right.jpg,50,Male,mild nonproliferative retinopathy,mild nonproliferative retinopathy,D
+3947,E:/A07/A07/1/Training_Dataset\3947_left.jpg,3947_left.jpg,E:/A07/A07/1/Training_Dataset\3947_right.jpg,3947_right.jpg,62,Male,moderate non proliferative retinopathy,low image quality,D
+3952,E:/A07/A07/1/Training_Dataset\3952_left.jpg,3952_left.jpg,E:/A07/A07/1/Training_Dataset\3952_right.jpg,3952_right.jpg,56,Male,moderate non proliferative retinopathy,moderate non proliferative retinopathy,D
+3953,E:/A07/A07/1/Training_Dataset\3953_left.jpg,3953_left.jpg,E:/A07/A07/1/Training_Dataset\3953_right.jpg,3953_right.jpg,50,Male,mild nonproliferative retinopathy,moderate non proliferative retinopathy,D
+3955,E:/A07/A07/1/Training_Dataset\3955_left.jpg,3955_left.jpg,E:/A07/A07/1/Training_Dataset\3955_right.jpg,3955_right.jpg,67,Male,moderate non proliferative retinopathy,moderate non proliferative retinopathy,D
+3966,E:/A07/A07/1/Training_Dataset\3966_left.jpg,3966_left.jpg,E:/A07/A07/1/Training_Dataset\3966_right.jpg,3966_right.jpg,55,Female,moderate non proliferative retinopathy，hypertensive retinopathy,mild nonproliferative retinopathy,"D, H"
+3969,E:/A07/A07/1/Training_Dataset\3969_left.jpg,3969_left.jpg,E:/A07/A07/1/Training_Dataset\3969_right.jpg,3969_right.jpg,34,Female,moderate non proliferative retinopathy,mild nonproliferative retinopathy,D
+3976,E:/A07/A07/1/Training_Dataset\3976_left.jpg,3976_left.jpg,E:/A07/A07/1/Training_Dataset\3976_right.jpg,3976_right.jpg,37,Male,moderate non proliferative retinopathy,moderate non proliferative retinopathy,D
+3977,E:/A07/A07/1/Training_Dataset\3977_left.jpg,3977_left.jpg,E:/A07/A07/1/Training_Dataset\3977_right.jpg,3977_right.jpg,43,Female,mild nonproliferative retinopathy,normal fundus,D
+3981,E:/A07/A07/1/Training_Dataset\3981_left.jpg,3981_left.jpg,E:/A07/A07/1/Training_Dataset\3981_right.jpg,3981_right.jpg,69,Female,moderate non proliferative retinopathy，hypertensive retinopathy,moderate non proliferative retinopathy，hypertensive retinopathy,"D, H"
+3982,E:/A07/A07/1/Training_Dataset\3982_left.jpg,3982_left.jpg,E:/A07/A07/1/Training_Dataset\3982_right.jpg,3982_right.jpg,52,Male,moderate non proliferative retinopathy，hypertensive retinopathy,moderate non proliferative retinopathy，hypertensive retinopathy,"D, H"
