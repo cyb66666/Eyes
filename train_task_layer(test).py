@@ -126,9 +126,9 @@ def plot_confusion_matrix_multiclass(logits, onehot_labels, num_classes=8):
 # ==========================
 if __name__ == "__main__":
     # 参数设置
-    emb_dim = 1024      # 每只眼睛编码的维度
-    hidden_dim = 512
-    num_classes = 8
+    emb_dim = conf.task_layer.emb_dim      # 每只眼睛编码的维度
+    hidden_dim = conf.task_layer.hidden_dim
+    num_classes = conf.task_layer.num_classes
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
     # 加载数据集，文件路径请自行修改

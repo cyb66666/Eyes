@@ -7,5 +7,10 @@
         "csv":"./data/merged_image_info.csv",
         "text_embedding":"./data/keywords.json"
     },
-    "checkpoint":"./checkpoint/model.pth"
+    "checkpoint":"./checkpoint/model.pth",
+    "task_layer":{
+        "emb_dim":1024,
+        "hidden_dim":512,
+        "num_classes":8
+    }
 }
