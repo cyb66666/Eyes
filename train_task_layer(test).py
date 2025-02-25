@@ -7,7 +7,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.metrics import confusion_matrix
-
+from config import conf
 # ==========================
 # 1. 定义数据集类
 # ==========================
@@ -132,7 +132,7 @@ if __name__ == "__main__":
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
     # 加载数据集，文件路径请自行修改
-    dataset = EyeDataset("data/output.json")
+    dataset = EyeDataset(conf.data_path.text_embedding)
     
     # 划分数据集（例如 80% 训练，20% 测试）
     train_size = int(0.8 * len(dataset))
@@ -185,7 +185,7 @@ if __name__ == "__main__":
     #     print(f"Epoch {epoch+1}: Train Loss = {avg_loss:.4f}, Train Accuracy = {avg_acc:.4f}, Train Recall = {avg_rec:.4f}")
     # torch.save(model.state_dict(), "model.pth")
     # 在测试集上评估并绘制混淆矩阵
-    model.load_state_dict(torch.load('./model.pth'))
+    model.load_state_dict(torch.load(conf.checkpoint))
     model.eval()
     all_logits = []
     all_labels = []

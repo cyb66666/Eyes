@@ -1,9 +1,10 @@
 {
     "data_path":{
+        "base":"./data",
         "Training_Dataset":"./data/Training_Dataset",
         "Cropped_Dataset":"./data/Cropped_Dataset",
         "Enhanced_Dataset":"./data/Enhanced_Dataset",
-        "csv":"./merged_image_info.csv",
+        "csv":"./data/merged_image_info.csv",
         "text_embedding":"./data/keywords.json"
     },
     "checkpoint":"./checkpoint/model.pth"

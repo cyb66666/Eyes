@@ -1,4 +1,4 @@
-ID,image_path_l,左眼图片名称,image_path_r,右眼图片名称,年龄,性别,左眼疾病详细描述,右眼疾病详细描述,分类
+ID,image_path_l,Left-Fundus,image_path_r,Right-Fundus,Patient Age,Patient Sex,Left-Diagnostic Keywords,Right-Diagnostic Keywords,label
 0,E:/A07/A07/1/Training_Dataset\0_left.jpg,0_left.jpg,E:/A07/A07/1/Training_Dataset\0_right.jpg,0_right.jpg,69,Female,cataract,normal fundus,C
 1,E:/A07/A07/1/Training_Dataset\1_left.jpg,1_left.jpg,E:/A07/A07/1/Training_Dataset\1_right.jpg,1_right.jpg,57,Male,normal fundus,normal fundus,N
 2,E:/A07/A07/1/Training_Dataset\2_left.jpg,2_left.jpg,E:/A07/A07/1/Training_Dataset\2_right.jpg,2_right.jpg,42,Male,laser spot，moderate non proliferative retinopathy,moderate non proliferative retinopathy,"D, O"
