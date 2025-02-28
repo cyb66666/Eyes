@@ -5,12 +5,16 @@
         "Cropped_Dataset":"./data/Cropped_Dataset",
         "Enhanced_Dataset":"./data/Enhanced_Dataset",
         "csv":"./data/merged_image_info.csv",
-        "text_embedding":"./data/keywords.json"
+        "text_embedding":"./data/keywords.json",
+        "train":"./data/train",
+        "test":"./data/test"
     },
     "checkpoint":"./checkpoint/model.pth",
     "task_layer":{
         "emb_dim":1024,
         "hidden_dim":512,
         "num_classes":8
-    }
+    },
+    "image_size":[512,512],
+    "batch_size":16
 }
