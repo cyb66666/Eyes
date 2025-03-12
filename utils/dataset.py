@@ -34,7 +34,7 @@ class EyeDataset(Dataset):
     def __getitem__(self, idx):
         id_value = self.data[idx]["ID"]
         img_path = self.image_path + f"/{id_value}.jpg"
-        label = torch.tensor(self.data[idx]["label"])
+        label = self.data[idx]["label"]
         img = self.transform(Image.open(img_path))
         return img, label
 
@@ -50,25 +50,28 @@ class EyeDataset(Dataset):
 
         # 过滤CSV数据，使其包含当前目录下的图片
         filtered_data = self.csv[self.csv["ID"].isin(jpg_filenames)]
-        # print(type(self.csv.iloc[0]["ID"]))
-        # 创建 {ID: label} 映射
 
+        # 创建 {ID: label} 映射
         id_label_map = []
         for _, row in filtered_data.iterrows():
             img_id = row["ID"]
-            label = row[label_columns].tolist()  # 取出对应的独热编码
+            # 将标签转换为 torch.float32 类型
+            label = torch.tensor(row[label_columns].tolist(), dtype=torch.float32)
             id_label_map.append({
-                "ID":img_id,
-                "label":label
+                "ID": img_id,
+                "label": label
             })
 
         return id_label_map
     
+def loader(train=True):
+    return DataLoader(EyeDataset(train), batch_size=conf.batch_size, shuffle=True)
+
 if __name__ == '__main__':
     train_dataloader = DataLoader(EyeDataset(True), batch_size=conf.batch_size, shuffle=True)
     test_dataloader = DataLoader(EyeDataset(False), batch_size=conf.batch_size, shuffle=True)
     # dataset = EyeDataset()
     # print(dataset[0][0].size())
-    # for imgs, labels in train_dataloader:
-    #     print(imgs.size(), labels.size())
-    #     break
+    for imgs, labels in train_dataloader:
+        print(imgs.size(), labels.size())
+        break

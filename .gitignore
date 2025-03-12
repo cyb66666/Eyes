@@ -1,4 +1,5 @@
 *.jpg
 keywords.json
 *.pth
+*.tar
 

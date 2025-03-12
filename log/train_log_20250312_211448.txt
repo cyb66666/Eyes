@@ -1,0 +1,1 @@
+Epoch,Loss,Val_Acc,Macro_Precision,Macro_Recall,Precision_Per_Class,Recall_Per_Class
